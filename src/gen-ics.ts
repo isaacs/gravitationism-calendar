@@ -66,8 +66,7 @@ if (!MONTHS) {
         startInputType: 'local',
         startOutputType: 'local',
         title: `${name}` + (day ? ' ' + day : ''),
-        description: `
-${g.shortString}
+        description: `${g.shortString}
 ${g.fullString}
 ${date.toISOString()}`,
         uid: `${date.getFullYear()}-${name}-${day ? day + '-' : ''}${s.getTime()}`,
