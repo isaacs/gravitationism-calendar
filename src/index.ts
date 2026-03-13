@@ -1,4 +1,5 @@
 export * from './season.ts'
 export * from './months.ts'
 export * from './load-solar-events.ts'
+export * from './solar-event.ts'
 export * from './gravitationism-date.ts'

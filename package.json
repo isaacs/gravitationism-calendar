@@ -2,11 +2,15 @@
   "name": "gravitationism-calendar",
   "version": "0.0.0",
   "type": "module",
-  "dependencies": {
+  "devDependencies": {
     "@ts-ics/schema-zod": "^2.0.0",
     "@types/node": "^22.13.17",
     "ics": "^3.8.1",
     "ts-ics": "^2.1.0"
+  },
+  "main": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts"
   },
   "scripts": {
     "format": "prettier --write .",
