@@ -1,0 +1,19 @@
+{
+  "name": "gravitationism-calendar",
+  "version": "0.0.0",
+  "type": "module",
+  "dependencies": {
+    "@ts-ics/schema-zod": "^2.0.0",
+    "@types/node": "^22.13.17",
+    "ics": "^3.8.1",
+    "ts-ics": "^2.1.0"
+  },
+  "scripts": {
+    "format": "prettier --write .",
+    "parse-solar": "node src/parse-solar.ts",
+    "parse-lunar": "node src/parse-lunar.ts",
+    "solar-ics": "node src/gen-ics.ts",
+    "lunar-ics": "node src/gen-ics.ts months",
+    "gdate": "node src/current-gdate.ts"
+  }
+}

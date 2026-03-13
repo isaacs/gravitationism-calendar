@@ -1,0 +1,6284 @@
+[
+  {
+    "name": "imbolc",
+    "date": "1970-02-04T05:46:00.000Z",
+    "days": 45,
+    "gyear": -54
+  },
+  {
+    "name": "spring",
+    "date": "1970-03-21T00:57:00.000Z",
+    "days": 46,
+    "gyear": -54
+  },
+  {
+    "name": "beltane",
+    "date": "1970-05-05T22:34:00.000Z",
+    "days": 47,
+    "gyear": -54
+  },
+  {
+    "name": "summer",
+    "date": "1970-06-21T19:43:00.000Z",
+    "days": 47,
+    "gyear": -54
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1970-08-07T22:54:00.000Z",
+    "days": 47,
+    "gyear": -54
+  },
+  {
+    "name": "autumn",
+    "date": "1970-09-23T10:59:00.000Z",
+    "days": 45,
+    "gyear": -54
+  },
+  {
+    "name": "samhain",
+    "date": "1970-11-07T19:58:00.000Z",
+    "days": 44,
+    "gyear": -54
+  },
+  {
+    "name": "winter",
+    "date": "1970-12-22T06:36:00.000Z",
+    "days": 45,
+    "gyear": -53
+  },
+  {
+    "name": "imbolc",
+    "date": "1971-02-04T11:26:00.000Z",
+    "days": 44,
+    "gyear": -53
+  },
+  {
+    "name": "spring",
+    "date": "1971-03-21T06:38:00.000Z",
+    "days": 46,
+    "gyear": -53
+  },
+  {
+    "name": "beltane",
+    "date": "1971-05-06T04:08:00.000Z",
+    "days": 47,
+    "gyear": -53
+  },
+  {
+    "name": "summer",
+    "date": "1971-06-22T01:20:00.000Z",
+    "days": 47,
+    "gyear": -53
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1971-08-08T04:40:00.000Z",
+    "days": 47,
+    "gyear": -53
+  },
+  {
+    "name": "autumn",
+    "date": "1971-09-23T16:45:00.000Z",
+    "days": 45,
+    "gyear": -53
+  },
+  {
+    "name": "samhain",
+    "date": "1971-11-08T01:57:00.000Z",
+    "days": 45,
+    "gyear": -53
+  },
+  {
+    "name": "winter",
+    "date": "1971-12-22T12:24:00.000Z",
+    "days": 44,
+    "gyear": -52
+  },
+  {
+    "name": "imbolc",
+    "date": "1972-02-04T17:20:00.000Z",
+    "days": 45,
+    "gyear": -52
+  },
+  {
+    "name": "spring",
+    "date": "1972-03-20T12:22:00.000Z",
+    "days": 46,
+    "gyear": -52
+  },
+  {
+    "name": "beltane",
+    "date": "1972-05-05T10:01:00.000Z",
+    "days": 47,
+    "gyear": -52
+  },
+  {
+    "name": "summer",
+    "date": "1972-06-21T07:06:00.000Z",
+    "days": 47,
+    "gyear": -52
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1972-08-07T10:29:00.000Z",
+    "days": 46,
+    "gyear": -52
+  },
+  {
+    "name": "autumn",
+    "date": "1972-09-22T22:33:00.000Z",
+    "days": 45,
+    "gyear": -52
+  },
+  {
+    "name": "samhain",
+    "date": "1972-11-07T07:40:00.000Z",
+    "days": 45,
+    "gyear": -52
+  },
+  {
+    "name": "winter",
+    "date": "1972-12-21T18:13:00.000Z",
+    "days": 44,
+    "gyear": -51
+  },
+  {
+    "name": "imbolc",
+    "date": "1973-02-03T23:04:00.000Z",
+    "days": 45,
+    "gyear": -51
+  },
+  {
+    "name": "spring",
+    "date": "1973-03-20T18:13:00.000Z",
+    "days": 46,
+    "gyear": -51
+  },
+  {
+    "name": "beltane",
+    "date": "1973-05-05T15:47:00.000Z",
+    "days": 47,
+    "gyear": -51
+  },
+  {
+    "name": "summer",
+    "date": "1973-06-21T13:01:00.000Z",
+    "days": 47,
+    "gyear": -51
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1973-08-07T16:13:00.000Z",
+    "days": 46,
+    "gyear": -51
+  },
+  {
+    "name": "autumn",
+    "date": "1973-09-23T04:21:00.000Z",
+    "days": 46,
+    "gyear": -51
+  },
+  {
+    "name": "samhain",
+    "date": "1973-11-07T13:28:00.000Z",
+    "days": 44,
+    "gyear": -51
+  },
+  {
+    "name": "winter",
+    "date": "1973-12-22T00:08:00.000Z",
+    "days": 44,
+    "gyear": -50
+  },
+  {
+    "name": "imbolc",
+    "date": "1974-02-04T05:00:00.000Z",
+    "days": 45,
+    "gyear": -50
+  },
+  {
+    "name": "spring",
+    "date": "1974-03-21T00:07:00.000Z",
+    "days": 46,
+    "gyear": -50
+  },
+  {
+    "name": "beltane",
+    "date": "1974-05-05T21:34:00.000Z",
+    "days": 47,
+    "gyear": -50
+  },
+  {
+    "name": "summer",
+    "date": "1974-06-21T18:38:00.000Z",
+    "days": 47,
+    "gyear": -50
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1974-08-07T21:57:00.000Z",
+    "days": 47,
+    "gyear": -50
+  },
+  {
+    "name": "autumn",
+    "date": "1974-09-23T09:59:00.000Z",
+    "days": 45,
+    "gyear": -50
+  },
+  {
+    "name": "samhain",
+    "date": "1974-11-07T19:18:00.000Z",
+    "days": 44,
+    "gyear": -50
+  },
+  {
+    "name": "winter",
+    "date": "1974-12-22T05:56:00.000Z",
+    "days": 45,
+    "gyear": -49
+  },
+  {
+    "name": "imbolc",
+    "date": "1975-02-04T10:59:00.000Z",
+    "days": 44,
+    "gyear": -49
+  },
+  {
+    "name": "spring",
+    "date": "1975-03-21T05:57:00.000Z",
+    "days": 46,
+    "gyear": -49
+  },
+  {
+    "name": "beltane",
+    "date": "1975-05-06T03:27:00.000Z",
+    "days": 47,
+    "gyear": -49
+  },
+  {
+    "name": "summer",
+    "date": "1975-06-22T00:27:00.000Z",
+    "days": 47,
+    "gyear": -49
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1975-08-08T03:45:00.000Z",
+    "days": 47,
+    "gyear": -49
+  },
+  {
+    "name": "autumn",
+    "date": "1975-09-23T15:55:00.000Z",
+    "days": 45,
+    "gyear": -49
+  },
+  {
+    "name": "samhain",
+    "date": "1975-11-08T01:03:00.000Z",
+    "days": 45,
+    "gyear": -49
+  },
+  {
+    "name": "winter",
+    "date": "1975-12-22T11:46:00.000Z",
+    "days": 44,
+    "gyear": -48
+  },
+  {
+    "name": "imbolc",
+    "date": "1976-02-04T16:40:00.000Z",
+    "days": 45,
+    "gyear": -48
+  },
+  {
+    "name": "spring",
+    "date": "1976-03-20T11:50:00.000Z",
+    "days": 46,
+    "gyear": -48
+  },
+  {
+    "name": "beltane",
+    "date": "1976-05-05T09:15:00.000Z",
+    "days": 46,
+    "gyear": -48
+  },
+  {
+    "name": "summer",
+    "date": "1976-06-21T06:25:00.000Z",
+    "days": 48,
+    "gyear": -48
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1976-08-07T09:39:00.000Z",
+    "days": 46,
+    "gyear": -48
+  },
+  {
+    "name": "autumn",
+    "date": "1976-09-22T21:48:00.000Z",
+    "days": 45,
+    "gyear": -48
+  },
+  {
+    "name": "samhain",
+    "date": "1976-11-07T06:59:00.000Z",
+    "days": 45,
+    "gyear": -48
+  },
+  {
+    "name": "winter",
+    "date": "1976-12-21T17:35:00.000Z",
+    "days": 44,
+    "gyear": -47
+  },
+  {
+    "name": "imbolc",
+    "date": "1977-02-03T22:34:00.000Z",
+    "days": 45,
+    "gyear": -47
+  },
+  {
+    "name": "spring",
+    "date": "1977-03-20T17:43:00.000Z",
+    "days": 46,
+    "gyear": -47
+  },
+  {
+    "name": "beltane",
+    "date": "1977-05-05T15:16:00.000Z",
+    "days": 47,
+    "gyear": -47
+  },
+  {
+    "name": "summer",
+    "date": "1977-06-21T12:14:00.000Z",
+    "days": 47,
+    "gyear": -47
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1977-08-07T15:31:00.000Z",
+    "days": 46,
+    "gyear": -47
+  },
+  {
+    "name": "autumn",
+    "date": "1977-09-23T03:30:00.000Z",
+    "days": 46,
+    "gyear": -47
+  },
+  {
+    "name": "samhain",
+    "date": "1977-11-07T12:46:00.000Z",
+    "days": 44,
+    "gyear": -47
+  },
+  {
+    "name": "winter",
+    "date": "1977-12-21T23:23:00.000Z",
+    "days": 44,
+    "gyear": -46
+  },
+  {
+    "name": "imbolc",
+    "date": "1978-02-04T04:27:00.000Z",
+    "days": 45,
+    "gyear": -46
+  },
+  {
+    "name": "spring",
+    "date": "1978-03-20T23:34:00.000Z",
+    "days": 46,
+    "gyear": -46
+  },
+  {
+    "name": "beltane",
+    "date": "1978-05-05T21:09:00.000Z",
+    "days": 47,
+    "gyear": -46
+  },
+  {
+    "name": "summer",
+    "date": "1978-06-21T18:10:00.000Z",
+    "days": 47,
+    "gyear": -46
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1978-08-07T21:18:00.000Z",
+    "days": 47,
+    "gyear": -46
+  },
+  {
+    "name": "autumn",
+    "date": "1978-09-23T09:26:00.000Z",
+    "days": 45,
+    "gyear": -46
+  },
+  {
+    "name": "samhain",
+    "date": "1978-11-07T18:34:00.000Z",
+    "days": 44,
+    "gyear": -46
+  },
+  {
+    "name": "winter",
+    "date": "1978-12-22T05:21:00.000Z",
+    "days": 45,
+    "gyear": -45
+  },
+  {
+    "name": "imbolc",
+    "date": "1979-02-04T10:13:00.000Z",
+    "days": 44,
+    "gyear": -45
+  },
+  {
+    "name": "spring",
+    "date": "1979-03-21T05:22:00.000Z",
+    "days": 46,
+    "gyear": -45
+  },
+  {
+    "name": "beltane",
+    "date": "1979-05-06T02:48:00.000Z",
+    "days": 47,
+    "gyear": -45
+  },
+  {
+    "name": "summer",
+    "date": "1979-06-21T23:57:00.000Z",
+    "days": 47,
+    "gyear": -45
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1979-08-08T03:11:00.000Z",
+    "days": 47,
+    "gyear": -45
+  },
+  {
+    "name": "autumn",
+    "date": "1979-09-23T15:17:00.000Z",
+    "days": 45,
+    "gyear": -45
+  },
+  {
+    "name": "samhain",
+    "date": "1979-11-08T00:33:00.000Z",
+    "days": 45,
+    "gyear": -45
+  },
+  {
+    "name": "winter",
+    "date": "1979-12-22T11:10:00.000Z",
+    "days": 44,
+    "gyear": -44
+  },
+  {
+    "name": "imbolc",
+    "date": "1980-02-04T16:10:00.000Z",
+    "days": 45,
+    "gyear": -44
+  },
+  {
+    "name": "spring",
+    "date": "1980-03-20T11:10:00.000Z",
+    "days": 46,
+    "gyear": -44
+  },
+  {
+    "name": "beltane",
+    "date": "1980-05-05T08:45:00.000Z",
+    "days": 46,
+    "gyear": -44
+  },
+  {
+    "name": "summer",
+    "date": "1980-06-21T05:47:00.000Z",
+    "days": 48,
+    "gyear": -44
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1980-08-07T09:09:00.000Z",
+    "days": 46,
+    "gyear": -44
+  },
+  {
+    "name": "autumn",
+    "date": "1980-09-22T21:09:00.000Z",
+    "days": 45,
+    "gyear": -44
+  },
+  {
+    "name": "samhain",
+    "date": "1980-11-07T06:19:00.000Z",
+    "days": 45,
+    "gyear": -44
+  },
+  {
+    "name": "winter",
+    "date": "1980-12-21T16:56:00.000Z",
+    "days": 44,
+    "gyear": -43
+  },
+  {
+    "name": "imbolc",
+    "date": "1981-02-03T21:56:00.000Z",
+    "days": 45,
+    "gyear": -43
+  },
+  {
+    "name": "spring",
+    "date": "1981-03-20T17:03:00.000Z",
+    "days": 46,
+    "gyear": -43
+  },
+  {
+    "name": "beltane",
+    "date": "1981-05-05T14:35:00.000Z",
+    "days": 47,
+    "gyear": -43
+  },
+  {
+    "name": "summer",
+    "date": "1981-06-21T11:45:00.000Z",
+    "days": 47,
+    "gyear": -43
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1981-08-07T14:58:00.000Z",
+    "days": 46,
+    "gyear": -43
+  },
+  {
+    "name": "autumn",
+    "date": "1981-09-23T03:06:00.000Z",
+    "days": 46,
+    "gyear": -43
+  },
+  {
+    "name": "samhain",
+    "date": "1981-11-07T12:09:00.000Z",
+    "days": 44,
+    "gyear": -43
+  },
+  {
+    "name": "winter",
+    "date": "1981-12-21T22:51:00.000Z",
+    "days": 44,
+    "gyear": -42
+  },
+  {
+    "name": "imbolc",
+    "date": "1982-02-04T03:46:00.000Z",
+    "days": 45,
+    "gyear": -42
+  },
+  {
+    "name": "spring",
+    "date": "1982-03-20T22:56:00.000Z",
+    "days": 46,
+    "gyear": -42
+  },
+  {
+    "name": "beltane",
+    "date": "1982-05-05T20:20:00.000Z",
+    "days": 47,
+    "gyear": -42
+  },
+  {
+    "name": "summer",
+    "date": "1982-06-21T17:23:00.000Z",
+    "days": 47,
+    "gyear": -42
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1982-08-07T20:42:00.000Z",
+    "days": 47,
+    "gyear": -42
+  },
+  {
+    "name": "autumn",
+    "date": "1982-09-23T08:47:00.000Z",
+    "days": 45,
+    "gyear": -42
+  },
+  {
+    "name": "samhain",
+    "date": "1982-11-07T18:04:00.000Z",
+    "days": 44,
+    "gyear": -42
+  },
+  {
+    "name": "winter",
+    "date": "1982-12-22T04:39:00.000Z",
+    "days": 45,
+    "gyear": -41
+  },
+  {
+    "name": "imbolc",
+    "date": "1983-02-04T09:40:00.000Z",
+    "days": 44,
+    "gyear": -41
+  },
+  {
+    "name": "spring",
+    "date": "1983-03-21T04:39:00.000Z",
+    "days": 46,
+    "gyear": -41
+  },
+  {
+    "name": "beltane",
+    "date": "1983-05-06T02:11:00.000Z",
+    "days": 47,
+    "gyear": -41
+  },
+  {
+    "name": "summer",
+    "date": "1983-06-21T23:09:00.000Z",
+    "days": 47,
+    "gyear": -41
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1983-08-08T02:30:00.000Z",
+    "days": 47,
+    "gyear": -41
+  },
+  {
+    "name": "autumn",
+    "date": "1983-09-23T14:42:00.000Z",
+    "days": 45,
+    "gyear": -41
+  },
+  {
+    "name": "samhain",
+    "date": "1983-11-07T23:53:00.000Z",
+    "days": 45,
+    "gyear": -41
+  },
+  {
+    "name": "winter",
+    "date": "1983-12-22T10:30:00.000Z",
+    "days": 44,
+    "gyear": -40
+  },
+  {
+    "name": "imbolc",
+    "date": "1984-02-04T15:19:00.000Z",
+    "days": 45,
+    "gyear": -40
+  },
+  {
+    "name": "spring",
+    "date": "1984-03-20T10:25:00.000Z",
+    "days": 46,
+    "gyear": -40
+  },
+  {
+    "name": "beltane",
+    "date": "1984-05-05T07:51:00.000Z",
+    "days": 46,
+    "gyear": -40
+  },
+  {
+    "name": "summer",
+    "date": "1984-06-21T05:03:00.000Z",
+    "days": 48,
+    "gyear": -40
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1984-08-07T08:18:00.000Z",
+    "days": 46,
+    "gyear": -40
+  },
+  {
+    "name": "autumn",
+    "date": "1984-09-22T20:33:00.000Z",
+    "days": 45,
+    "gyear": -40
+  },
+  {
+    "name": "samhain",
+    "date": "1984-11-07T05:46:00.000Z",
+    "days": 45,
+    "gyear": -40
+  },
+  {
+    "name": "winter",
+    "date": "1984-12-21T16:23:00.000Z",
+    "days": 44,
+    "gyear": -39
+  },
+  {
+    "name": "imbolc",
+    "date": "1985-02-03T21:12:00.000Z",
+    "days": 45,
+    "gyear": -39
+  },
+  {
+    "name": "spring",
+    "date": "1985-03-20T16:14:00.000Z",
+    "days": 46,
+    "gyear": -39
+  },
+  {
+    "name": "beltane",
+    "date": "1985-05-05T13:43:00.000Z",
+    "days": 47,
+    "gyear": -39
+  },
+  {
+    "name": "summer",
+    "date": "1985-06-21T10:45:00.000Z",
+    "days": 47,
+    "gyear": -39
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1985-08-07T14:05:00.000Z",
+    "days": 46,
+    "gyear": -39
+  },
+  {
+    "name": "autumn",
+    "date": "1985-09-23T02:08:00.000Z",
+    "days": 46,
+    "gyear": -39
+  },
+  {
+    "name": "samhain",
+    "date": "1985-11-07T11:30:00.000Z",
+    "days": 44,
+    "gyear": -39
+  },
+  {
+    "name": "winter",
+    "date": "1985-12-21T22:08:00.000Z",
+    "days": 44,
+    "gyear": -38
+  },
+  {
+    "name": "imbolc",
+    "date": "1986-02-04T03:08:00.000Z",
+    "days": 45,
+    "gyear": -38
+  },
+  {
+    "name": "spring",
+    "date": "1986-03-20T22:03:00.000Z",
+    "days": 46,
+    "gyear": -38
+  },
+  {
+    "name": "beltane",
+    "date": "1986-05-05T19:31:00.000Z",
+    "days": 47,
+    "gyear": -38
+  },
+  {
+    "name": "summer",
+    "date": "1986-06-21T16:30:00.000Z",
+    "days": 47,
+    "gyear": -38
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1986-08-07T19:46:00.000Z",
+    "days": 47,
+    "gyear": -38
+  },
+  {
+    "name": "autumn",
+    "date": "1986-09-23T07:59:00.000Z",
+    "days": 45,
+    "gyear": -38
+  },
+  {
+    "name": "samhain",
+    "date": "1986-11-07T17:13:00.000Z",
+    "days": 44,
+    "gyear": -38
+  },
+  {
+    "name": "winter",
+    "date": "1986-12-22T04:03:00.000Z",
+    "days": 45,
+    "gyear": -37
+  },
+  {
+    "name": "imbolc",
+    "date": "1987-02-04T08:52:00.000Z",
+    "days": 44,
+    "gyear": -37
+  },
+  {
+    "name": "spring",
+    "date": "1987-03-21T03:52:00.000Z",
+    "days": 46,
+    "gyear": -37
+  },
+  {
+    "name": "beltane",
+    "date": "1987-05-06T01:06:00.000Z",
+    "days": 47,
+    "gyear": -37
+  },
+  {
+    "name": "summer",
+    "date": "1987-06-21T22:11:00.000Z",
+    "days": 47,
+    "gyear": -37
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1987-08-08T01:30:00.000Z",
+    "days": 47,
+    "gyear": -37
+  },
+  {
+    "name": "autumn",
+    "date": "1987-09-23T13:46:00.000Z",
+    "days": 45,
+    "gyear": -37
+  },
+  {
+    "name": "samhain",
+    "date": "1987-11-07T23:06:00.000Z",
+    "days": 45,
+    "gyear": -37
+  },
+  {
+    "name": "winter",
+    "date": "1987-12-22T09:46:00.000Z",
+    "days": 44,
+    "gyear": -36
+  },
+  {
+    "name": "imbolc",
+    "date": "1988-02-04T14:43:00.000Z",
+    "days": 45,
+    "gyear": -36
+  },
+  {
+    "name": "spring",
+    "date": "1988-03-20T09:39:00.000Z",
+    "days": 46,
+    "gyear": -36
+  },
+  {
+    "name": "beltane",
+    "date": "1988-05-05T07:02:00.000Z",
+    "days": 46,
+    "gyear": -36
+  },
+  {
+    "name": "summer",
+    "date": "1988-06-21T03:57:00.000Z",
+    "days": 48,
+    "gyear": -36
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1988-08-07T07:21:00.000Z",
+    "days": 46,
+    "gyear": -36
+  },
+  {
+    "name": "autumn",
+    "date": "1988-09-22T19:29:00.000Z",
+    "days": 45,
+    "gyear": -36
+  },
+  {
+    "name": "samhain",
+    "date": "1988-11-07T04:49:00.000Z",
+    "days": 45,
+    "gyear": -36
+  },
+  {
+    "name": "winter",
+    "date": "1988-12-21T15:28:00.000Z",
+    "days": 44,
+    "gyear": -35
+  },
+  {
+    "name": "imbolc",
+    "date": "1989-02-03T20:28:00.000Z",
+    "days": 45,
+    "gyear": -35
+  },
+  {
+    "name": "spring",
+    "date": "1989-03-20T15:29:00.000Z",
+    "days": 46,
+    "gyear": -35
+  },
+  {
+    "name": "beltane",
+    "date": "1989-05-05T12:54:00.000Z",
+    "days": 47,
+    "gyear": -35
+  },
+  {
+    "name": "summer",
+    "date": "1989-06-21T09:53:00.000Z",
+    "days": 47,
+    "gyear": -35
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1989-08-07T13:04:00.000Z",
+    "days": 46,
+    "gyear": -35
+  },
+  {
+    "name": "autumn",
+    "date": "1989-09-23T01:20:00.000Z",
+    "days": 46,
+    "gyear": -35
+  },
+  {
+    "name": "samhain",
+    "date": "1989-11-07T10:34:00.000Z",
+    "days": 44,
+    "gyear": -35
+  },
+  {
+    "name": "winter",
+    "date": "1989-12-21T21:22:00.000Z",
+    "days": 44,
+    "gyear": -34
+  },
+  {
+    "name": "imbolc",
+    "date": "1990-02-04T02:14:00.000Z",
+    "days": 45,
+    "gyear": -34
+  },
+  {
+    "name": "spring",
+    "date": "1990-03-20T21:20:00.000Z",
+    "days": 46,
+    "gyear": -34
+  },
+  {
+    "name": "beltane",
+    "date": "1990-05-05T18:36:00.000Z",
+    "days": 47,
+    "gyear": -34
+  },
+  {
+    "name": "summer",
+    "date": "1990-06-21T15:33:00.000Z",
+    "days": 47,
+    "gyear": -34
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1990-08-07T18:46:00.000Z",
+    "days": 46,
+    "gyear": -34
+  },
+  {
+    "name": "autumn",
+    "date": "1990-09-23T06:56:00.000Z",
+    "days": 46,
+    "gyear": -34
+  },
+  {
+    "name": "samhain",
+    "date": "1990-11-07T16:24:00.000Z",
+    "days": 44,
+    "gyear": -34
+  },
+  {
+    "name": "winter",
+    "date": "1990-12-22T03:07:00.000Z",
+    "days": 45,
+    "gyear": -33
+  },
+  {
+    "name": "imbolc",
+    "date": "1991-02-04T08:09:00.000Z",
+    "days": 44,
+    "gyear": -33
+  },
+  {
+    "name": "spring",
+    "date": "1991-03-21T03:02:00.000Z",
+    "days": 46,
+    "gyear": -33
+  },
+  {
+    "name": "beltane",
+    "date": "1991-05-06T00:27:00.000Z",
+    "days": 47,
+    "gyear": -33
+  },
+  {
+    "name": "summer",
+    "date": "1991-06-21T21:19:00.000Z",
+    "days": 47,
+    "gyear": -33
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1991-08-08T00:38:00.000Z",
+    "days": 47,
+    "gyear": -33
+  },
+  {
+    "name": "autumn",
+    "date": "1991-09-23T12:49:00.000Z",
+    "days": 45,
+    "gyear": -33
+  },
+  {
+    "name": "samhain",
+    "date": "1991-11-07T22:08:00.000Z",
+    "days": 45,
+    "gyear": -33
+  },
+  {
+    "name": "winter",
+    "date": "1991-12-22T08:54:00.000Z",
+    "days": 44,
+    "gyear": -32
+  },
+  {
+    "name": "imbolc",
+    "date": "1992-02-04T13:49:00.000Z",
+    "days": 45,
+    "gyear": -32
+  },
+  {
+    "name": "spring",
+    "date": "1992-03-20T08:49:00.000Z",
+    "days": 45,
+    "gyear": -32
+  },
+  {
+    "name": "beltane",
+    "date": "1992-05-05T06:09:00.000Z",
+    "days": 47,
+    "gyear": -32
+  },
+  {
+    "name": "summer",
+    "date": "1992-06-21T03:15:00.000Z",
+    "days": 47,
+    "gyear": -32
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1992-08-07T06:28:00.000Z",
+    "days": 47,
+    "gyear": -32
+  },
+  {
+    "name": "autumn",
+    "date": "1992-09-22T18:43:00.000Z",
+    "days": 45,
+    "gyear": -32
+  },
+  {
+    "name": "samhain",
+    "date": "1992-11-07T03:58:00.000Z",
+    "days": 45,
+    "gyear": -32
+  },
+  {
+    "name": "winter",
+    "date": "1992-12-21T14:44:00.000Z",
+    "days": 44,
+    "gyear": -31
+  },
+  {
+    "name": "imbolc",
+    "date": "1993-02-03T19:38:00.000Z",
+    "days": 45,
+    "gyear": -31
+  },
+  {
+    "name": "spring",
+    "date": "1993-03-20T14:41:00.000Z",
+    "days": 46,
+    "gyear": -31
+  },
+  {
+    "name": "beltane",
+    "date": "1993-05-05T12:02:00.000Z",
+    "days": 47,
+    "gyear": -31
+  },
+  {
+    "name": "summer",
+    "date": "1993-06-21T09:00:00.000Z",
+    "days": 47,
+    "gyear": -31
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1993-08-07T12:18:00.000Z",
+    "days": 46,
+    "gyear": -31
+  },
+  {
+    "name": "autumn",
+    "date": "1993-09-23T00:23:00.000Z",
+    "days": 46,
+    "gyear": -31
+  },
+  {
+    "name": "samhain",
+    "date": "1993-11-07T09:46:00.000Z",
+    "days": 44,
+    "gyear": -31
+  },
+  {
+    "name": "winter",
+    "date": "1993-12-21T20:26:00.000Z",
+    "days": 44,
+    "gyear": -30
+  },
+  {
+    "name": "imbolc",
+    "date": "1994-02-04T01:31:00.000Z",
+    "days": 45,
+    "gyear": -30
+  },
+  {
+    "name": "spring",
+    "date": "1994-03-20T20:29:00.000Z",
+    "days": 46,
+    "gyear": -30
+  },
+  {
+    "name": "beltane",
+    "date": "1994-05-05T17:55:00.000Z",
+    "days": 47,
+    "gyear": -30
+  },
+  {
+    "name": "summer",
+    "date": "1994-06-21T14:48:00.000Z",
+    "days": 47,
+    "gyear": -30
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1994-08-07T18:05:00.000Z",
+    "days": 46,
+    "gyear": -30
+  },
+  {
+    "name": "autumn",
+    "date": "1994-09-23T06:20:00.000Z",
+    "days": 46,
+    "gyear": -30
+  },
+  {
+    "name": "samhain",
+    "date": "1994-11-07T15:36:00.000Z",
+    "days": 44,
+    "gyear": -30
+  },
+  {
+    "name": "winter",
+    "date": "1994-12-22T02:23:00.000Z",
+    "days": 44,
+    "gyear": -29
+  },
+  {
+    "name": "imbolc",
+    "date": "1995-02-04T07:13:00.000Z",
+    "days": 45,
+    "gyear": -29
+  },
+  {
+    "name": "spring",
+    "date": "1995-03-21T02:15:00.000Z",
+    "days": 46,
+    "gyear": -29
+  },
+  {
+    "name": "beltane",
+    "date": "1995-05-05T23:31:00.000Z",
+    "days": 47,
+    "gyear": -29
+  },
+  {
+    "name": "summer",
+    "date": "1995-06-21T20:35:00.000Z",
+    "days": 47,
+    "gyear": -29
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1995-08-07T23:52:00.000Z",
+    "days": 47,
+    "gyear": -29
+  },
+  {
+    "name": "autumn",
+    "date": "1995-09-23T12:14:00.000Z",
+    "days": 45,
+    "gyear": -29
+  },
+  {
+    "name": "samhain",
+    "date": "1995-11-07T21:36:00.000Z",
+    "days": 45,
+    "gyear": -29
+  },
+  {
+    "name": "winter",
+    "date": "1995-12-22T08:17:00.000Z",
+    "days": 44,
+    "gyear": -28
+  },
+  {
+    "name": "imbolc",
+    "date": "1996-02-04T13:08:00.000Z",
+    "days": 45,
+    "gyear": -28
+  },
+  {
+    "name": "spring",
+    "date": "1996-03-20T08:04:00.000Z",
+    "days": 45,
+    "gyear": -28
+  },
+  {
+    "name": "beltane",
+    "date": "1996-05-05T05:27:00.000Z",
+    "days": 47,
+    "gyear": -28
+  },
+  {
+    "name": "summer",
+    "date": "1996-06-21T02:24:00.000Z",
+    "days": 47,
+    "gyear": -28
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1996-08-07T05:49:00.000Z",
+    "days": 47,
+    "gyear": -28
+  },
+  {
+    "name": "autumn",
+    "date": "1996-09-22T18:01:00.000Z",
+    "days": 45,
+    "gyear": -28
+  },
+  {
+    "name": "samhain",
+    "date": "1996-11-07T03:27:00.000Z",
+    "days": 45,
+    "gyear": -28
+  },
+  {
+    "name": "winter",
+    "date": "1996-12-21T14:06:00.000Z",
+    "days": 44,
+    "gyear": -27
+  },
+  {
+    "name": "imbolc",
+    "date": "1997-02-03T19:02:00.000Z",
+    "days": 45,
+    "gyear": -27
+  },
+  {
+    "name": "spring",
+    "date": "1997-03-20T13:55:00.000Z",
+    "days": 46,
+    "gyear": -27
+  },
+  {
+    "name": "beltane",
+    "date": "1997-05-05T11:20:00.000Z",
+    "days": 47,
+    "gyear": -27
+  },
+  {
+    "name": "summer",
+    "date": "1997-06-21T08:20:00.000Z",
+    "days": 47,
+    "gyear": -27
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1997-08-07T11:37:00.000Z",
+    "days": 46,
+    "gyear": -27
+  },
+  {
+    "name": "autumn",
+    "date": "1997-09-22T23:56:00.000Z",
+    "days": 46,
+    "gyear": -27
+  },
+  {
+    "name": "samhain",
+    "date": "1997-11-07T09:15:00.000Z",
+    "days": 44,
+    "gyear": -27
+  },
+  {
+    "name": "winter",
+    "date": "1997-12-21T20:08:00.000Z",
+    "days": 44,
+    "gyear": -26
+  },
+  {
+    "name": "imbolc",
+    "date": "1998-02-04T00:57:00.000Z",
+    "days": 45,
+    "gyear": -26
+  },
+  {
+    "name": "spring",
+    "date": "1998-03-20T19:55:00.000Z",
+    "days": 46,
+    "gyear": -26
+  },
+  {
+    "name": "beltane",
+    "date": "1998-05-05T17:04:00.000Z",
+    "days": 47,
+    "gyear": -26
+  },
+  {
+    "name": "summer",
+    "date": "1998-06-21T14:03:00.000Z",
+    "days": 47,
+    "gyear": -26
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1998-08-07T17:20:00.000Z",
+    "days": 46,
+    "gyear": -26
+  },
+  {
+    "name": "autumn",
+    "date": "1998-09-23T05:38:00.000Z",
+    "days": 46,
+    "gyear": -26
+  },
+  {
+    "name": "samhain",
+    "date": "1998-11-07T15:09:00.000Z",
+    "days": 44,
+    "gyear": -26
+  },
+  {
+    "name": "winter",
+    "date": "1998-12-22T01:57:00.000Z",
+    "days": 44,
+    "gyear": -25
+  },
+  {
+    "name": "imbolc",
+    "date": "1999-02-04T06:58:00.000Z",
+    "days": 45,
+    "gyear": -25
+  },
+  {
+    "name": "spring",
+    "date": "1999-03-21T01:46:00.000Z",
+    "days": 46,
+    "gyear": -25
+  },
+  {
+    "name": "beltane",
+    "date": "1999-05-05T23:02:00.000Z",
+    "days": 47,
+    "gyear": -25
+  },
+  {
+    "name": "summer",
+    "date": "1999-06-21T19:50:00.000Z",
+    "days": 47,
+    "gyear": -25
+  },
+  {
+    "name": "lughnasadh",
+    "date": "1999-08-07T23:15:00.000Z",
+    "days": 47,
+    "gyear": -25
+  },
+  {
+    "name": "autumn",
+    "date": "1999-09-23T11:32:00.000Z",
+    "days": 45,
+    "gyear": -25
+  },
+  {
+    "name": "samhain",
+    "date": "1999-11-07T20:58:00.000Z",
+    "days": 44,
+    "gyear": -25
+  },
+  {
+    "name": "winter",
+    "date": "1999-12-22T07:44:00.000Z",
+    "days": 45,
+    "gyear": -24
+  },
+  {
+    "name": "imbolc",
+    "date": "2000-02-04T12:41:00.000Z",
+    "days": 44,
+    "gyear": -24
+  },
+  {
+    "name": "spring",
+    "date": "2000-03-20T07:36:00.000Z",
+    "days": 46,
+    "gyear": -24
+  },
+  {
+    "name": "beltane",
+    "date": "2000-05-05T04:51:00.000Z",
+    "days": 47,
+    "gyear": -24
+  },
+  {
+    "name": "summer",
+    "date": "2000-06-21T01:48:00.000Z",
+    "days": 47,
+    "gyear": -24
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2000-08-07T05:04:00.000Z",
+    "days": 47,
+    "gyear": -24
+  },
+  {
+    "name": "autumn",
+    "date": "2000-09-22T17:28:00.000Z",
+    "days": 45,
+    "gyear": -24
+  },
+  {
+    "name": "samhain",
+    "date": "2000-11-07T02:49:00.000Z",
+    "days": 45,
+    "gyear": -24
+  },
+  {
+    "name": "winter",
+    "date": "2000-12-21T13:38:00.000Z",
+    "days": 44,
+    "gyear": -23
+  },
+  {
+    "name": "imbolc",
+    "date": "2001-02-03T18:29:00.000Z",
+    "days": 45,
+    "gyear": -23
+  },
+  {
+    "name": "spring",
+    "date": "2001-03-20T13:31:00.000Z",
+    "days": 46,
+    "gyear": -23
+  },
+  {
+    "name": "beltane",
+    "date": "2001-05-05T10:45:00.000Z",
+    "days": 47,
+    "gyear": -23
+  },
+  {
+    "name": "summer",
+    "date": "2001-06-21T07:38:00.000Z",
+    "days": 47,
+    "gyear": -23
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2001-08-07T10:53:00.000Z",
+    "days": 46,
+    "gyear": -23
+  },
+  {
+    "name": "autumn",
+    "date": "2001-09-22T23:05:00.000Z",
+    "days": 46,
+    "gyear": -23
+  },
+  {
+    "name": "samhain",
+    "date": "2001-11-07T08:37:00.000Z",
+    "days": 44,
+    "gyear": -23
+  },
+  {
+    "name": "winter",
+    "date": "2001-12-21T19:22:00.000Z",
+    "days": 44,
+    "gyear": -22
+  },
+  {
+    "name": "imbolc",
+    "date": "2002-02-04T00:25:00.000Z",
+    "days": 45,
+    "gyear": -22
+  },
+  {
+    "name": "spring",
+    "date": "2002-03-20T19:17:00.000Z",
+    "days": 46,
+    "gyear": -22
+  },
+  {
+    "name": "beltane",
+    "date": "2002-05-05T16:38:00.000Z",
+    "days": 47,
+    "gyear": -22
+  },
+  {
+    "name": "summer",
+    "date": "2002-06-21T13:25:00.000Z",
+    "days": 47,
+    "gyear": -22
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2002-08-07T16:40:00.000Z",
+    "days": 46,
+    "gyear": -22
+  },
+  {
+    "name": "autumn",
+    "date": "2002-09-23T04:56:00.000Z",
+    "days": 46,
+    "gyear": -22
+  },
+  {
+    "name": "samhain",
+    "date": "2002-11-07T14:22:00.000Z",
+    "days": 44,
+    "gyear": -22
+  },
+  {
+    "name": "winter",
+    "date": "2002-12-22T01:15:00.000Z",
+    "days": 44,
+    "gyear": -21
+  },
+  {
+    "name": "imbolc",
+    "date": "2003-02-04T06:06:00.000Z",
+    "days": 45,
+    "gyear": -21
+  },
+  {
+    "name": "spring",
+    "date": "2003-03-21T01:00:00.000Z",
+    "days": 46,
+    "gyear": -21
+  },
+  {
+    "name": "beltane",
+    "date": "2003-05-05T22:11:00.000Z",
+    "days": 47,
+    "gyear": -21
+  },
+  {
+    "name": "summer",
+    "date": "2003-06-21T19:11:00.000Z",
+    "days": 47,
+    "gyear": -21
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2003-08-07T22:25:00.000Z",
+    "days": 47,
+    "gyear": -21
+  },
+  {
+    "name": "autumn",
+    "date": "2003-09-23T10:47:00.000Z",
+    "days": 45,
+    "gyear": -21
+  },
+  {
+    "name": "samhain",
+    "date": "2003-11-07T20:14:00.000Z",
+    "days": 44,
+    "gyear": -21
+  },
+  {
+    "name": "winter",
+    "date": "2003-12-22T07:04:00.000Z",
+    "days": 45,
+    "gyear": -20
+  },
+  {
+    "name": "imbolc",
+    "date": "2004-02-04T11:57:00.000Z",
+    "days": 44,
+    "gyear": -20
+  },
+  {
+    "name": "spring",
+    "date": "2004-03-20T06:49:00.000Z",
+    "days": 46,
+    "gyear": -20
+  },
+  {
+    "name": "beltane",
+    "date": "2004-05-05T04:03:00.000Z",
+    "days": 47,
+    "gyear": -20
+  },
+  {
+    "name": "summer",
+    "date": "2004-06-21T00:57:00.000Z",
+    "days": 47,
+    "gyear": -20
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2004-08-07T04:20:00.000Z",
+    "days": 47,
+    "gyear": -20
+  },
+  {
+    "name": "autumn",
+    "date": "2004-09-22T16:30:00.000Z",
+    "days": 45,
+    "gyear": -20
+  },
+  {
+    "name": "samhain",
+    "date": "2004-11-07T01:59:00.000Z",
+    "days": 45,
+    "gyear": -20
+  },
+  {
+    "name": "winter",
+    "date": "2004-12-21T12:42:00.000Z",
+    "days": 44,
+    "gyear": -19
+  },
+  {
+    "name": "imbolc",
+    "date": "2005-02-03T17:44:00.000Z",
+    "days": 45,
+    "gyear": -19
+  },
+  {
+    "name": "spring",
+    "date": "2005-03-20T12:34:00.000Z",
+    "days": 46,
+    "gyear": -19
+  },
+  {
+    "name": "beltane",
+    "date": "2005-05-05T09:53:00.000Z",
+    "days": 46,
+    "gyear": -19
+  },
+  {
+    "name": "summer",
+    "date": "2005-06-21T06:47:00.000Z",
+    "days": 48,
+    "gyear": -19
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2005-08-07T10:04:00.000Z",
+    "days": 46,
+    "gyear": -19
+  },
+  {
+    "name": "autumn",
+    "date": "2005-09-22T22:24:00.000Z",
+    "days": 45,
+    "gyear": -19
+  },
+  {
+    "name": "samhain",
+    "date": "2005-11-07T07:43:00.000Z",
+    "days": 45,
+    "gyear": -19
+  },
+  {
+    "name": "winter",
+    "date": "2005-12-21T18:36:00.000Z",
+    "days": 44,
+    "gyear": -18
+  },
+  {
+    "name": "imbolc",
+    "date": "2006-02-03T23:28:00.000Z",
+    "days": 45,
+    "gyear": -18
+  },
+  {
+    "name": "spring",
+    "date": "2006-03-20T18:26:00.000Z",
+    "days": 46,
+    "gyear": -18
+  },
+  {
+    "name": "beltane",
+    "date": "2006-05-05T15:31:00.000Z",
+    "days": 47,
+    "gyear": -18
+  },
+  {
+    "name": "summer",
+    "date": "2006-06-21T12:26:00.000Z",
+    "days": 47,
+    "gyear": -18
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2006-08-07T15:41:00.000Z",
+    "days": 46,
+    "gyear": -18
+  },
+  {
+    "name": "autumn",
+    "date": "2006-09-23T04:04:00.000Z",
+    "days": 46,
+    "gyear": -18
+  },
+  {
+    "name": "samhain",
+    "date": "2006-11-07T13:35:00.000Z",
+    "days": 44,
+    "gyear": -18
+  },
+  {
+    "name": "winter",
+    "date": "2006-12-22T00:23:00.000Z",
+    "days": 44,
+    "gyear": -17
+  },
+  {
+    "name": "imbolc",
+    "date": "2007-02-04T05:19:00.000Z",
+    "days": 45,
+    "gyear": -17
+  },
+  {
+    "name": "spring",
+    "date": "2007-03-21T00:08:00.000Z",
+    "days": 46,
+    "gyear": -17
+  },
+  {
+    "name": "beltane",
+    "date": "2007-05-05T21:21:00.000Z",
+    "days": 47,
+    "gyear": -17
+  },
+  {
+    "name": "summer",
+    "date": "2007-06-21T18:07:00.000Z",
+    "days": 47,
+    "gyear": -17
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2007-08-07T21:32:00.000Z",
+    "days": 47,
+    "gyear": -17
+  },
+  {
+    "name": "autumn",
+    "date": "2007-09-23T09:52:00.000Z",
+    "days": 45,
+    "gyear": -17
+  },
+  {
+    "name": "samhain",
+    "date": "2007-11-07T19:25:00.000Z",
+    "days": 44,
+    "gyear": -17
+  },
+  {
+    "name": "winter",
+    "date": "2007-12-22T06:08:00.000Z",
+    "days": 45,
+    "gyear": -16
+  },
+  {
+    "name": "imbolc",
+    "date": "2008-02-04T11:01:00.000Z",
+    "days": 44,
+    "gyear": -16
+  },
+  {
+    "name": "spring",
+    "date": "2008-03-20T05:49:00.000Z",
+    "days": 46,
+    "gyear": -16
+  },
+  {
+    "name": "beltane",
+    "date": "2008-05-05T03:04:00.000Z",
+    "days": 47,
+    "gyear": -16
+  },
+  {
+    "name": "summer",
+    "date": "2008-06-21T00:00:00.000Z",
+    "days": 47,
+    "gyear": -16
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2008-08-07T03:17:00.000Z",
+    "days": 47,
+    "gyear": -16
+  },
+  {
+    "name": "autumn",
+    "date": "2008-09-22T15:45:00.000Z",
+    "days": 45,
+    "gyear": -16
+  },
+  {
+    "name": "samhain",
+    "date": "2008-11-07T01:11:00.000Z",
+    "days": 45,
+    "gyear": -16
+  },
+  {
+    "name": "winter",
+    "date": "2008-12-21T12:04:00.000Z",
+    "days": 44,
+    "gyear": -15
+  },
+  {
+    "name": "imbolc",
+    "date": "2009-02-03T16:50:00.000Z",
+    "days": 45,
+    "gyear": -15
+  },
+  {
+    "name": "spring",
+    "date": "2009-03-20T11:44:00.000Z",
+    "days": 46,
+    "gyear": -15
+  },
+  {
+    "name": "beltane",
+    "date": "2009-05-05T08:51:00.000Z",
+    "days": 46,
+    "gyear": -15
+  },
+  {
+    "name": "summer",
+    "date": "2009-06-21T05:46:00.000Z",
+    "days": 48,
+    "gyear": -15
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2009-08-07T09:02:00.000Z",
+    "days": 46,
+    "gyear": -15
+  },
+  {
+    "name": "autumn",
+    "date": "2009-09-22T21:19:00.000Z",
+    "days": 45,
+    "gyear": -15
+  },
+  {
+    "name": "samhain",
+    "date": "2009-11-07T06:57:00.000Z",
+    "days": 45,
+    "gyear": -15
+  },
+  {
+    "name": "winter",
+    "date": "2009-12-21T17:47:00.000Z",
+    "days": 44,
+    "gyear": -14
+  },
+  {
+    "name": "imbolc",
+    "date": "2010-02-03T22:48:00.000Z",
+    "days": 45,
+    "gyear": -14
+  },
+  {
+    "name": "spring",
+    "date": "2010-03-20T17:33:00.000Z",
+    "days": 46,
+    "gyear": -14
+  },
+  {
+    "name": "beltane",
+    "date": "2010-05-05T14:45:00.000Z",
+    "days": 47,
+    "gyear": -14
+  },
+  {
+    "name": "summer",
+    "date": "2010-06-21T11:29:00.000Z",
+    "days": 47,
+    "gyear": -14
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2010-08-07T14:50:00.000Z",
+    "days": 46,
+    "gyear": -14
+  },
+  {
+    "name": "autumn",
+    "date": "2010-09-23T03:10:00.000Z",
+    "days": 46,
+    "gyear": -14
+  },
+  {
+    "name": "samhain",
+    "date": "2010-11-07T12:43:00.000Z",
+    "days": 44,
+    "gyear": -14
+  },
+  {
+    "name": "winter",
+    "date": "2010-12-21T23:39:00.000Z",
+    "days": 44,
+    "gyear": -13
+  },
+  {
+    "name": "imbolc",
+    "date": "2011-02-04T04:34:00.000Z",
+    "days": 45,
+    "gyear": -13
+  },
+  {
+    "name": "spring",
+    "date": "2011-03-20T23:21:00.000Z",
+    "days": 46,
+    "gyear": -13
+  },
+  {
+    "name": "beltane",
+    "date": "2011-05-05T20:24:00.000Z",
+    "days": 47,
+    "gyear": -13
+  },
+  {
+    "name": "summer",
+    "date": "2011-06-21T17:17:00.000Z",
+    "days": 47,
+    "gyear": -13
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2011-08-07T20:34:00.000Z",
+    "days": 47,
+    "gyear": -13
+  },
+  {
+    "name": "autumn",
+    "date": "2011-09-23T09:05:00.000Z",
+    "days": 45,
+    "gyear": -13
+  },
+  {
+    "name": "samhain",
+    "date": "2011-11-07T18:36:00.000Z",
+    "days": 44,
+    "gyear": -13
+  },
+  {
+    "name": "winter",
+    "date": "2011-12-22T05:31:00.000Z",
+    "days": 45,
+    "gyear": -12
+  },
+  {
+    "name": "imbolc",
+    "date": "2012-02-04T10:23:00.000Z",
+    "days": 44,
+    "gyear": -12
+  },
+  {
+    "name": "spring",
+    "date": "2012-03-20T05:15:00.000Z",
+    "days": 46,
+    "gyear": -12
+  },
+  {
+    "name": "beltane",
+    "date": "2012-05-05T02:20:00.000Z",
+    "days": 47,
+    "gyear": -12
+  },
+  {
+    "name": "summer",
+    "date": "2012-06-20T23:09:00.000Z",
+    "days": 47,
+    "gyear": -12
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2012-08-07T02:31:00.000Z",
+    "days": 47,
+    "gyear": -12
+  },
+  {
+    "name": "autumn",
+    "date": "2012-09-22T14:50:00.000Z",
+    "days": 45,
+    "gyear": -12
+  },
+  {
+    "name": "samhain",
+    "date": "2012-11-07T00:27:00.000Z",
+    "days": 45,
+    "gyear": -12
+  },
+  {
+    "name": "winter",
+    "date": "2012-12-21T11:12:00.000Z",
+    "days": 44,
+    "gyear": -11
+  },
+  {
+    "name": "imbolc",
+    "date": "2013-02-03T16:14:00.000Z",
+    "days": 45,
+    "gyear": -11
+  },
+  {
+    "name": "spring",
+    "date": "2013-03-20T11:03:00.000Z",
+    "days": 46,
+    "gyear": -11
+  },
+  {
+    "name": "beltane",
+    "date": "2013-05-05T08:19:00.000Z",
+    "days": 46,
+    "gyear": -11
+  },
+  {
+    "name": "summer",
+    "date": "2013-06-21T05:05:00.000Z",
+    "days": 48,
+    "gyear": -11
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2013-08-07T08:21:00.000Z",
+    "days": 46,
+    "gyear": -11
+  },
+  {
+    "name": "autumn",
+    "date": "2013-09-22T20:45:00.000Z",
+    "days": 45,
+    "gyear": -11
+  },
+  {
+    "name": "samhain",
+    "date": "2013-11-07T06:14:00.000Z",
+    "days": 45,
+    "gyear": -11
+  },
+  {
+    "name": "winter",
+    "date": "2013-12-21T17:12:00.000Z",
+    "days": 44,
+    "gyear": -10
+  },
+  {
+    "name": "imbolc",
+    "date": "2014-02-03T22:04:00.000Z",
+    "days": 45,
+    "gyear": -10
+  },
+  {
+    "name": "spring",
+    "date": "2014-03-20T16:58:00.000Z",
+    "days": 46,
+    "gyear": -10
+  },
+  {
+    "name": "beltane",
+    "date": "2014-05-05T14:00:00.000Z",
+    "days": 47,
+    "gyear": -10
+  },
+  {
+    "name": "summer",
+    "date": "2014-06-21T10:52:00.000Z",
+    "days": 47,
+    "gyear": -10
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2014-08-07T14:03:00.000Z",
+    "days": 46,
+    "gyear": -10
+  },
+  {
+    "name": "autumn",
+    "date": "2014-09-23T02:30:00.000Z",
+    "days": 46,
+    "gyear": -10
+  },
+  {
+    "name": "samhain",
+    "date": "2014-11-07T12:07:00.000Z",
+    "days": 44,
+    "gyear": -10
+  },
+  {
+    "name": "winter",
+    "date": "2014-12-21T23:04:00.000Z",
+    "days": 44,
+    "gyear": -9
+  },
+  {
+    "name": "imbolc",
+    "date": "2015-02-04T03:59:00.000Z",
+    "days": 45,
+    "gyear": -9
+  },
+  {
+    "name": "spring",
+    "date": "2015-03-20T22:46:00.000Z",
+    "days": 46,
+    "gyear": -9
+  },
+  {
+    "name": "beltane",
+    "date": "2015-05-05T19:53:00.000Z",
+    "days": 47,
+    "gyear": -9
+  },
+  {
+    "name": "summer",
+    "date": "2015-06-21T16:39:00.000Z",
+    "days": 47,
+    "gyear": -9
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2015-08-07T20:02:00.000Z",
+    "days": 47,
+    "gyear": -9
+  },
+  {
+    "name": "autumn",
+    "date": "2015-09-23T08:21:00.000Z",
+    "days": 45,
+    "gyear": -9
+  },
+  {
+    "name": "samhain",
+    "date": "2015-11-07T17:59:00.000Z",
+    "days": 44,
+    "gyear": -9
+  },
+  {
+    "name": "winter",
+    "date": "2015-12-22T04:49:00.000Z",
+    "days": 45,
+    "gyear": -8
+  },
+  {
+    "name": "imbolc",
+    "date": "2016-02-04T09:47:00.000Z",
+    "days": 44,
+    "gyear": -8
+  },
+  {
+    "name": "spring",
+    "date": "2016-03-20T04:31:00.000Z",
+    "days": 46,
+    "gyear": -8
+  },
+  {
+    "name": "beltane",
+    "date": "2016-05-05T01:43:00.000Z",
+    "days": 47,
+    "gyear": -8
+  },
+  {
+    "name": "summer",
+    "date": "2016-06-20T22:35:00.000Z",
+    "days": 47,
+    "gyear": -8
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2016-08-07T01:54:00.000Z",
+    "days": 47,
+    "gyear": -8
+  },
+  {
+    "name": "autumn",
+    "date": "2016-09-22T14:22:00.000Z",
+    "days": 45,
+    "gyear": -8
+  },
+  {
+    "name": "samhain",
+    "date": "2016-11-06T23:48:00.000Z",
+    "days": 45,
+    "gyear": -8
+  },
+  {
+    "name": "winter",
+    "date": "2016-12-21T10:45:00.000Z",
+    "days": 44,
+    "gyear": -7
+  },
+  {
+    "name": "imbolc",
+    "date": "2017-02-03T15:35:00.000Z",
+    "days": 45,
+    "gyear": -7
+  },
+  {
+    "name": "spring",
+    "date": "2017-03-20T10:29:00.000Z",
+    "days": 46,
+    "gyear": -7
+  },
+  {
+    "name": "beltane",
+    "date": "2017-05-05T07:32:00.000Z",
+    "days": 46,
+    "gyear": -7
+  },
+  {
+    "name": "summer",
+    "date": "2017-06-21T04:25:00.000Z",
+    "days": 48,
+    "gyear": -7
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2017-08-07T07:41:00.000Z",
+    "days": 46,
+    "gyear": -7
+  },
+  {
+    "name": "autumn",
+    "date": "2017-09-22T20:02:00.000Z",
+    "days": 45,
+    "gyear": -7
+  },
+  {
+    "name": "samhain",
+    "date": "2017-11-07T05:38:00.000Z",
+    "days": 45,
+    "gyear": -7
+  },
+  {
+    "name": "winter",
+    "date": "2017-12-21T16:29:00.000Z",
+    "days": 44,
+    "gyear": -6
+  },
+  {
+    "name": "imbolc",
+    "date": "2018-02-03T21:29:00.000Z",
+    "days": 45,
+    "gyear": -6
+  },
+  {
+    "name": "spring",
+    "date": "2018-03-20T16:16:00.000Z",
+    "days": 46,
+    "gyear": -6
+  },
+  {
+    "name": "beltane",
+    "date": "2018-05-05T13:26:00.000Z",
+    "days": 47,
+    "gyear": -6
+  },
+  {
+    "name": "summer",
+    "date": "2018-06-21T10:08:00.000Z",
+    "days": 47,
+    "gyear": -6
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2018-08-07T13:31:00.000Z",
+    "days": 46,
+    "gyear": -6
+  },
+  {
+    "name": "autumn",
+    "date": "2018-09-23T01:55:00.000Z",
+    "days": 46,
+    "gyear": -6
+  },
+  {
+    "name": "samhain",
+    "date": "2018-11-07T11:32:00.000Z",
+    "days": 44,
+    "gyear": -6
+  },
+  {
+    "name": "winter",
+    "date": "2018-12-21T22:23:00.000Z",
+    "days": 44,
+    "gyear": -5
+  },
+  {
+    "name": "imbolc",
+    "date": "2019-02-04T03:15:00.000Z",
+    "days": 45,
+    "gyear": -5
+  },
+  {
+    "name": "spring",
+    "date": "2019-03-20T21:59:00.000Z",
+    "days": 46,
+    "gyear": -5
+  },
+  {
+    "name": "beltane",
+    "date": "2019-05-05T19:03:00.000Z",
+    "days": 47,
+    "gyear": -5
+  },
+  {
+    "name": "summer",
+    "date": "2019-06-21T15:55:00.000Z",
+    "days": 47,
+    "gyear": -5
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2019-08-07T19:14:00.000Z",
+    "days": 47,
+    "gyear": -5
+  },
+  {
+    "name": "autumn",
+    "date": "2019-09-23T07:51:00.000Z",
+    "days": 45,
+    "gyear": -5
+  },
+  {
+    "name": "samhain",
+    "date": "2019-11-07T17:25:00.000Z",
+    "days": 44,
+    "gyear": -5
+  },
+  {
+    "name": "winter",
+    "date": "2019-12-22T04:20:00.000Z",
+    "days": 45,
+    "gyear": -4
+  },
+  {
+    "name": "imbolc",
+    "date": "2020-02-04T09:04:00.000Z",
+    "days": 44,
+    "gyear": -4
+  },
+  {
+    "name": "spring",
+    "date": "2020-03-20T03:50:00.000Z",
+    "days": 46,
+    "gyear": -4
+  },
+  {
+    "name": "beltane",
+    "date": "2020-05-05T00:52:00.000Z",
+    "days": 47,
+    "gyear": -4
+  },
+  {
+    "name": "summer",
+    "date": "2020-06-20T21:44:00.000Z",
+    "days": 47,
+    "gyear": -4
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2020-08-07T01:07:00.000Z",
+    "days": 47,
+    "gyear": -4
+  },
+  {
+    "name": "autumn",
+    "date": "2020-09-22T13:31:00.000Z",
+    "days": 45,
+    "gyear": -4
+  },
+  {
+    "name": "samhain",
+    "date": "2020-11-06T23:15:00.000Z",
+    "days": 45,
+    "gyear": -4
+  },
+  {
+    "name": "winter",
+    "date": "2020-12-21T10:03:00.000Z",
+    "days": 44,
+    "gyear": -3
+  },
+  {
+    "name": "imbolc",
+    "date": "2021-02-03T14:59:00.000Z",
+    "days": 45,
+    "gyear": -3
+  },
+  {
+    "name": "spring",
+    "date": "2021-03-20T09:38:00.000Z",
+    "days": 45,
+    "gyear": -3
+  },
+  {
+    "name": "beltane",
+    "date": "2021-05-05T06:48:00.000Z",
+    "days": 47,
+    "gyear": -3
+  },
+  {
+    "name": "summer",
+    "date": "2021-06-21T03:33:00.000Z",
+    "days": 47,
+    "gyear": -3
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2021-08-07T06:55:00.000Z",
+    "days": 47,
+    "gyear": -3
+  },
+  {
+    "name": "autumn",
+    "date": "2021-09-22T19:22:00.000Z",
+    "days": 45,
+    "gyear": -3
+  },
+  {
+    "name": "samhain",
+    "date": "2021-11-07T04:59:00.000Z",
+    "days": 45,
+    "gyear": -3
+  },
+  {
+    "name": "winter",
+    "date": "2021-12-21T16:00:00.000Z",
+    "days": 44,
+    "gyear": -2
+  },
+  {
+    "name": "imbolc",
+    "date": "2022-02-03T20:51:00.000Z",
+    "days": 45,
+    "gyear": -2
+  },
+  {
+    "name": "spring",
+    "date": "2022-03-20T15:34:00.000Z",
+    "days": 46,
+    "gyear": -2
+  },
+  {
+    "name": "beltane",
+    "date": "2022-05-05T12:27:00.000Z",
+    "days": 47,
+    "gyear": -2
+  },
+  {
+    "name": "summer",
+    "date": "2022-06-21T09:14:00.000Z",
+    "days": 47,
+    "gyear": -2
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2022-08-07T12:30:00.000Z",
+    "days": 46,
+    "gyear": -2
+  },
+  {
+    "name": "autumn",
+    "date": "2022-09-23T01:04:00.000Z",
+    "days": 46,
+    "gyear": -2
+  },
+  {
+    "name": "samhain",
+    "date": "2022-11-07T10:46:00.000Z",
+    "days": 44,
+    "gyear": -2
+  },
+  {
+    "name": "winter",
+    "date": "2022-12-21T21:49:00.000Z",
+    "days": 44,
+    "gyear": -1
+  },
+  {
+    "name": "imbolc",
+    "date": "2023-02-04T02:43:00.000Z",
+    "days": 45,
+    "gyear": -1
+  },
+  {
+    "name": "spring",
+    "date": "2023-03-20T21:25:00.000Z",
+    "days": 46,
+    "gyear": -1
+  },
+  {
+    "name": "beltane",
+    "date": "2023-05-05T18:19:00.000Z",
+    "days": 47,
+    "gyear": -1
+  },
+  {
+    "name": "summer",
+    "date": "2023-06-21T14:58:00.000Z",
+    "days": 47,
+    "gyear": -1
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2023-08-07T18:24:00.000Z",
+    "days": 46,
+    "gyear": -1
+  },
+  {
+    "name": "autumn",
+    "date": "2023-09-23T06:51:00.000Z",
+    "days": 46,
+    "gyear": -1
+  },
+  {
+    "name": "samhain",
+    "date": "2023-11-07T16:36:00.000Z",
+    "days": 44,
+    "gyear": -1
+  },
+  {
+    "name": "winter",
+    "date": "2023-12-22T03:28:00.000Z",
+    "days": 45,
+    "gyear": 0
+  },
+  {
+    "name": "imbolc",
+    "date": "2024-02-04T08:28:00.000Z",
+    "days": 44,
+    "gyear": 0
+  },
+  {
+    "name": "spring",
+    "date": "2024-03-20T03:07:00.000Z",
+    "days": 46,
+    "gyear": 0
+  },
+  {
+    "name": "beltane",
+    "date": "2024-05-05T00:11:00.000Z",
+    "days": 47,
+    "gyear": 0
+  },
+  {
+    "name": "summer",
+    "date": "2024-06-20T20:52:00.000Z",
+    "days": 47,
+    "gyear": 0
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2024-08-07T00:10:00.000Z",
+    "days": 47,
+    "gyear": 0
+  },
+  {
+    "name": "autumn",
+    "date": "2024-09-22T12:44:00.000Z",
+    "days": 45,
+    "gyear": 0
+  },
+  {
+    "name": "samhain",
+    "date": "2024-11-06T22:21:00.000Z",
+    "days": 45,
+    "gyear": 0
+  },
+  {
+    "name": "winter",
+    "date": "2024-12-21T09:21:00.000Z",
+    "days": 44,
+    "gyear": 1
+  },
+  {
+    "name": "imbolc",
+    "date": "2025-02-03T14:11:00.000Z",
+    "days": 45,
+    "gyear": 1
+  },
+  {
+    "name": "spring",
+    "date": "2025-03-20T09:02:00.000Z",
+    "days": 45,
+    "gyear": 1
+  },
+  {
+    "name": "beltane",
+    "date": "2025-05-05T05:58:00.000Z",
+    "days": 47,
+    "gyear": 1
+  },
+  {
+    "name": "summer",
+    "date": "2025-06-21T02:43:00.000Z",
+    "days": 47,
+    "gyear": 1
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2025-08-07T05:52:00.000Z",
+    "days": 47,
+    "gyear": 1
+  },
+  {
+    "name": "autumn",
+    "date": "2025-09-22T18:20:00.000Z",
+    "days": 45,
+    "gyear": 1
+  },
+  {
+    "name": "samhain",
+    "date": "2025-11-07T04:05:00.000Z",
+    "days": 45,
+    "gyear": 1
+  },
+  {
+    "name": "winter",
+    "date": "2025-12-21T15:04:00.000Z",
+    "days": 44,
+    "gyear": 2
+  },
+  {
+    "name": "imbolc",
+    "date": "2026-02-03T20:03:00.000Z",
+    "days": 45,
+    "gyear": 2
+  },
+  {
+    "name": "spring",
+    "date": "2026-03-20T14:47:00.000Z",
+    "days": 46,
+    "gyear": 2
+  },
+  {
+    "name": "beltane",
+    "date": "2026-05-05T11:49:00.000Z",
+    "days": 47,
+    "gyear": 2
+  },
+  {
+    "name": "summer",
+    "date": "2026-06-21T08:25:00.000Z",
+    "days": 47,
+    "gyear": 2
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2026-08-07T11:43:00.000Z",
+    "days": 46,
+    "gyear": 2
+  },
+  {
+    "name": "autumn",
+    "date": "2026-09-23T00:06:00.000Z",
+    "days": 46,
+    "gyear": 2
+  },
+  {
+    "name": "samhain",
+    "date": "2026-11-07T09:53:00.000Z",
+    "days": 44,
+    "gyear": 2
+  },
+  {
+    "name": "winter",
+    "date": "2026-12-21T20:51:00.000Z",
+    "days": 44,
+    "gyear": 3
+  },
+  {
+    "name": "imbolc",
+    "date": "2027-02-04T01:47:00.000Z",
+    "days": 45,
+    "gyear": 3
+  },
+  {
+    "name": "spring",
+    "date": "2027-03-20T20:25:00.000Z",
+    "days": 46,
+    "gyear": 3
+  },
+  {
+    "name": "beltane",
+    "date": "2027-05-05T17:26:00.000Z",
+    "days": 47,
+    "gyear": 3
+  },
+  {
+    "name": "summer",
+    "date": "2027-06-21T14:11:00.000Z",
+    "days": 47,
+    "gyear": 3
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2027-08-07T17:27:00.000Z",
+    "days": 46,
+    "gyear": 3
+  },
+  {
+    "name": "autumn",
+    "date": "2027-09-23T06:02:00.000Z",
+    "days": 46,
+    "gyear": 3
+  },
+  {
+    "name": "samhain",
+    "date": "2027-11-07T15:39:00.000Z",
+    "days": 44,
+    "gyear": 3
+  },
+  {
+    "name": "winter",
+    "date": "2027-12-22T02:43:00.000Z",
+    "days": 44,
+    "gyear": 4
+  },
+  {
+    "name": "imbolc",
+    "date": "2028-02-04T07:32:00.000Z",
+    "days": 45,
+    "gyear": 4
+  },
+  {
+    "name": "spring",
+    "date": "2028-03-20T02:18:00.000Z",
+    "days": 46,
+    "gyear": 4
+  },
+  {
+    "name": "beltane",
+    "date": "2028-05-04T23:13:00.000Z",
+    "days": 47,
+    "gyear": 4
+  },
+  {
+    "name": "summer",
+    "date": "2028-06-20T20:03:00.000Z",
+    "days": 47,
+    "gyear": 4
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2028-08-06T23:22:00.000Z",
+    "days": 47,
+    "gyear": 4
+  },
+  {
+    "name": "autumn",
+    "date": "2028-09-22T11:46:00.000Z",
+    "days": 45,
+    "gyear": 4
+  },
+  {
+    "name": "samhain",
+    "date": "2028-11-06T21:28:00.000Z",
+    "days": 45,
+    "gyear": 4
+  },
+  {
+    "name": "winter",
+    "date": "2028-12-21T08:20:00.000Z",
+    "days": 44,
+    "gyear": 5
+  },
+  {
+    "name": "imbolc",
+    "date": "2029-02-03T13:21:00.000Z",
+    "days": 45,
+    "gyear": 5
+  },
+  {
+    "name": "spring",
+    "date": "2029-03-20T08:03:00.000Z",
+    "days": 45,
+    "gyear": 5
+  },
+  {
+    "name": "beltane",
+    "date": "2029-05-05T05:08:00.000Z",
+    "days": 47,
+    "gyear": 5
+  },
+  {
+    "name": "summer",
+    "date": "2029-06-21T01:49:00.000Z",
+    "days": 47,
+    "gyear": 5
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2029-08-07T05:12:00.000Z",
+    "days": 47,
+    "gyear": 5
+  },
+  {
+    "name": "autumn",
+    "date": "2029-09-22T17:39:00.000Z",
+    "days": 45,
+    "gyear": 5
+  },
+  {
+    "name": "samhain",
+    "date": "2029-11-07T03:17:00.000Z",
+    "days": 45,
+    "gyear": 5
+  },
+  {
+    "name": "winter",
+    "date": "2029-12-21T14:15:00.000Z",
+    "days": 44,
+    "gyear": 6
+  },
+  {
+    "name": "imbolc",
+    "date": "2030-02-03T19:09:00.000Z",
+    "days": 45,
+    "gyear": 6
+  },
+  {
+    "name": "spring",
+    "date": "2030-03-20T13:53:00.000Z",
+    "days": 46,
+    "gyear": 6
+  },
+  {
+    "name": "beltane",
+    "date": "2030-05-05T10:47:00.000Z",
+    "days": 47,
+    "gyear": 6
+  },
+  {
+    "name": "summer",
+    "date": "2030-06-21T07:32:00.000Z",
+    "days": 47,
+    "gyear": 6
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2030-08-07T10:48:00.000Z",
+    "days": 46,
+    "gyear": 6
+  },
+  {
+    "name": "autumn",
+    "date": "2030-09-22T23:28:00.000Z",
+    "days": 46,
+    "gyear": 6
+  },
+  {
+    "name": "samhain",
+    "date": "2030-11-07T09:09:00.000Z",
+    "days": 44,
+    "gyear": 6
+  },
+  {
+    "name": "winter",
+    "date": "2030-12-21T20:10:00.000Z",
+    "days": 44,
+    "gyear": 7
+  },
+  {
+    "name": "imbolc",
+    "date": "2031-02-04T00:59:00.000Z",
+    "days": 45,
+    "gyear": 7
+  },
+  {
+    "name": "spring",
+    "date": "2031-03-20T19:42:00.000Z",
+    "days": 46,
+    "gyear": 7
+  },
+  {
+    "name": "beltane",
+    "date": "2031-05-05T16:36:00.000Z",
+    "days": 47,
+    "gyear": 7
+  },
+  {
+    "name": "summer",
+    "date": "2031-06-21T13:18:00.000Z",
+    "days": 47,
+    "gyear": 7
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2031-08-07T16:44:00.000Z",
+    "days": 46,
+    "gyear": 7
+  },
+  {
+    "name": "autumn",
+    "date": "2031-09-23T05:16:00.000Z",
+    "days": 46,
+    "gyear": 7
+  },
+  {
+    "name": "samhain",
+    "date": "2031-11-07T15:06:00.000Z",
+    "days": 44,
+    "gyear": 7
+  },
+  {
+    "name": "winter",
+    "date": "2031-12-22T01:56:00.000Z",
+    "days": 44,
+    "gyear": 8
+  },
+  {
+    "name": "imbolc",
+    "date": "2032-02-04T06:50:00.000Z",
+    "days": 45,
+    "gyear": 8
+  },
+  {
+    "name": "spring",
+    "date": "2032-03-20T01:23:00.000Z",
+    "days": 46,
+    "gyear": 8
+  },
+  {
+    "name": "beltane",
+    "date": "2032-05-04T22:26:00.000Z",
+    "days": 47,
+    "gyear": 8
+  },
+  {
+    "name": "summer",
+    "date": "2032-06-20T19:09:00.000Z",
+    "days": 47,
+    "gyear": 8
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2032-08-06T22:33:00.000Z",
+    "days": 47,
+    "gyear": 8
+  },
+  {
+    "name": "autumn",
+    "date": "2032-09-22T11:12:00.000Z",
+    "days": 45,
+    "gyear": 8
+  },
+  {
+    "name": "samhain",
+    "date": "2032-11-06T20:55:00.000Z",
+    "days": 44,
+    "gyear": 8
+  },
+  {
+    "name": "winter",
+    "date": "2032-12-21T07:57:00.000Z",
+    "days": 45,
+    "gyear": 9
+  },
+  {
+    "name": "imbolc",
+    "date": "2033-02-03T12:42:00.000Z",
+    "days": 45,
+    "gyear": 9
+  },
+  {
+    "name": "spring",
+    "date": "2033-03-20T07:23:00.000Z",
+    "days": 45,
+    "gyear": 9
+  },
+  {
+    "name": "beltane",
+    "date": "2033-05-05T04:14:00.000Z",
+    "days": 47,
+    "gyear": 9
+  },
+  {
+    "name": "summer",
+    "date": "2033-06-21T01:02:00.000Z",
+    "days": 47,
+    "gyear": 9
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2033-08-07T04:16:00.000Z",
+    "days": 47,
+    "gyear": 9
+  },
+  {
+    "name": "autumn",
+    "date": "2033-09-22T16:52:00.000Z",
+    "days": 45,
+    "gyear": 9
+  },
+  {
+    "name": "samhain",
+    "date": "2033-11-07T02:42:00.000Z",
+    "days": 45,
+    "gyear": 9
+  },
+  {
+    "name": "winter",
+    "date": "2033-12-21T13:47:00.000Z",
+    "days": 44,
+    "gyear": 10
+  },
+  {
+    "name": "imbolc",
+    "date": "2034-02-03T18:42:00.000Z",
+    "days": 45,
+    "gyear": 10
+  },
+  {
+    "name": "spring",
+    "date": "2034-03-20T13:18:00.000Z",
+    "days": 46,
+    "gyear": 10
+  },
+  {
+    "name": "beltane",
+    "date": "2034-05-05T10:10:00.000Z",
+    "days": 46,
+    "gyear": 10
+  },
+  {
+    "name": "summer",
+    "date": "2034-06-21T06:45:00.000Z",
+    "days": 48,
+    "gyear": 10
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2034-08-07T10:10:00.000Z",
+    "days": 46,
+    "gyear": 10
+  },
+  {
+    "name": "autumn",
+    "date": "2034-09-22T22:40:00.000Z",
+    "days": 46,
+    "gyear": 10
+  },
+  {
+    "name": "samhain",
+    "date": "2034-11-07T08:34:00.000Z",
+    "days": 44,
+    "gyear": 10
+  },
+  {
+    "name": "winter",
+    "date": "2034-12-21T19:35:00.000Z",
+    "days": 44,
+    "gyear": 11
+  },
+  {
+    "name": "imbolc",
+    "date": "2035-02-04T00:32:00.000Z",
+    "days": 45,
+    "gyear": 11
+  },
+  {
+    "name": "spring",
+    "date": "2035-03-20T19:03:00.000Z",
+    "days": 46,
+    "gyear": 11
+  },
+  {
+    "name": "beltane",
+    "date": "2035-05-05T15:56:00.000Z",
+    "days": 47,
+    "gyear": 11
+  },
+  {
+    "name": "summer",
+    "date": "2035-06-21T12:34:00.000Z",
+    "days": 47,
+    "gyear": 11
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2035-08-07T15:55:00.000Z",
+    "days": 46,
+    "gyear": 11
+  },
+  {
+    "name": "autumn",
+    "date": "2035-09-23T04:40:00.000Z",
+    "days": 46,
+    "gyear": 11
+  },
+  {
+    "name": "samhain",
+    "date": "2035-11-07T14:24:00.000Z",
+    "days": 44,
+    "gyear": 11
+  },
+  {
+    "name": "winter",
+    "date": "2035-12-22T01:32:00.000Z",
+    "days": 44,
+    "gyear": 12
+  },
+  {
+    "name": "imbolc",
+    "date": "2036-02-04T06:21:00.000Z",
+    "days": 45,
+    "gyear": 12
+  },
+  {
+    "name": "spring",
+    "date": "2036-03-20T01:03:00.000Z",
+    "days": 46,
+    "gyear": 12
+  },
+  {
+    "name": "beltane",
+    "date": "2036-05-04T21:50:00.000Z",
+    "days": 47,
+    "gyear": 12
+  },
+  {
+    "name": "summer",
+    "date": "2036-06-20T18:33:00.000Z",
+    "days": 47,
+    "gyear": 12
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2036-08-06T21:50:00.000Z",
+    "days": 47,
+    "gyear": 12
+  },
+  {
+    "name": "autumn",
+    "date": "2036-09-22T10:24:00.000Z",
+    "days": 45,
+    "gyear": 12
+  },
+  {
+    "name": "samhain",
+    "date": "2036-11-06T20:15:00.000Z",
+    "days": 44,
+    "gyear": 12
+  },
+  {
+    "name": "winter",
+    "date": "2036-12-21T07:14:00.000Z",
+    "days": 45,
+    "gyear": 13
+  },
+  {
+    "name": "imbolc",
+    "date": "2037-02-03T12:12:00.000Z",
+    "days": 44,
+    "gyear": 13
+  },
+  {
+    "name": "spring",
+    "date": "2037-03-20T06:51:00.000Z",
+    "days": 46,
+    "gyear": 13
+  },
+  {
+    "name": "beltane",
+    "date": "2037-05-05T03:50:00.000Z",
+    "days": 47,
+    "gyear": 13
+  },
+  {
+    "name": "summer",
+    "date": "2037-06-21T00:23:00.000Z",
+    "days": 47,
+    "gyear": 13
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2037-08-07T03:44:00.000Z",
+    "days": 47,
+    "gyear": 13
+  },
+  {
+    "name": "autumn",
+    "date": "2037-09-22T16:14:00.000Z",
+    "days": 45,
+    "gyear": 13
+  },
+  {
+    "name": "samhain",
+    "date": "2037-11-07T02:05:00.000Z",
+    "days": 45,
+    "gyear": 13
+  },
+  {
+    "name": "winter",
+    "date": "2037-12-21T13:08:00.000Z",
+    "days": 44,
+    "gyear": 14
+  },
+  {
+    "name": "imbolc",
+    "date": "2038-02-03T18:04:00.000Z",
+    "days": 45,
+    "gyear": 14
+  },
+  {
+    "name": "spring",
+    "date": "2038-03-20T12:41:00.000Z",
+    "days": 46,
+    "gyear": 14
+  },
+  {
+    "name": "beltane",
+    "date": "2038-05-05T09:32:00.000Z",
+    "days": 46,
+    "gyear": 14
+  },
+  {
+    "name": "summer",
+    "date": "2038-06-21T06:10:00.000Z",
+    "days": 48,
+    "gyear": 14
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2038-08-07T09:22:00.000Z",
+    "days": 46,
+    "gyear": 14
+  },
+  {
+    "name": "autumn",
+    "date": "2038-09-22T22:03:00.000Z",
+    "days": 46,
+    "gyear": 14
+  },
+  {
+    "name": "samhain",
+    "date": "2038-11-07T07:51:00.000Z",
+    "days": 44,
+    "gyear": 14
+  },
+  {
+    "name": "winter",
+    "date": "2038-12-21T19:03:00.000Z",
+    "days": 44,
+    "gyear": 15
+  },
+  {
+    "name": "imbolc",
+    "date": "2039-02-03T23:54:00.000Z",
+    "days": 45,
+    "gyear": 15
+  },
+  {
+    "name": "spring",
+    "date": "2039-03-20T18:33:00.000Z",
+    "days": 46,
+    "gyear": 15
+  },
+  {
+    "name": "beltane",
+    "date": "2039-05-05T15:19:00.000Z",
+    "days": 47,
+    "gyear": 15
+  },
+  {
+    "name": "summer",
+    "date": "2039-06-21T11:58:00.000Z",
+    "days": 47,
+    "gyear": 15
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2039-08-07T15:19:00.000Z",
+    "days": 46,
+    "gyear": 15
+  },
+  {
+    "name": "autumn",
+    "date": "2039-09-23T03:50:00.000Z",
+    "days": 46,
+    "gyear": 15
+  },
+  {
+    "name": "samhain",
+    "date": "2039-11-07T13:44:00.000Z",
+    "days": 44,
+    "gyear": 15
+  },
+  {
+    "name": "winter",
+    "date": "2039-12-22T00:41:00.000Z",
+    "days": 44,
+    "gyear": 16
+  },
+  {
+    "name": "imbolc",
+    "date": "2040-02-04T05:41:00.000Z",
+    "days": 45,
+    "gyear": 16
+  },
+  {
+    "name": "spring",
+    "date": "2040-03-20T00:12:00.000Z",
+    "days": 46,
+    "gyear": 16
+  },
+  {
+    "name": "beltane",
+    "date": "2040-05-04T21:10:00.000Z",
+    "days": 47,
+    "gyear": 16
+  },
+  {
+    "name": "summer",
+    "date": "2040-06-20T17:47:00.000Z",
+    "days": 47,
+    "gyear": 16
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2040-08-06T21:11:00.000Z",
+    "days": 47,
+    "gyear": 16
+  },
+  {
+    "name": "autumn",
+    "date": "2040-09-22T09:46:00.000Z",
+    "days": 45,
+    "gyear": 16
+  },
+  {
+    "name": "samhain",
+    "date": "2040-11-06T19:30:00.000Z",
+    "days": 44,
+    "gyear": 16
+  },
+  {
+    "name": "winter",
+    "date": "2040-12-21T06:33:00.000Z",
+    "days": 45,
+    "gyear": 17
+  },
+  {
+    "name": "imbolc",
+    "date": "2041-02-03T11:26:00.000Z",
+    "days": 44,
+    "gyear": 17
+  },
+  {
+    "name": "spring",
+    "date": "2041-03-20T06:07:00.000Z",
+    "days": 46,
+    "gyear": 17
+  },
+  {
+    "name": "beltane",
+    "date": "2041-05-05T02:55:00.000Z",
+    "days": 47,
+    "gyear": 17
+  },
+  {
+    "name": "summer",
+    "date": "2041-06-20T23:37:00.000Z",
+    "days": 47,
+    "gyear": 17
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2041-08-07T02:49:00.000Z",
+    "days": 47,
+    "gyear": 17
+  },
+  {
+    "name": "autumn",
+    "date": "2041-09-22T15:27:00.000Z",
+    "days": 45,
+    "gyear": 17
+  },
+  {
+    "name": "samhain",
+    "date": "2041-11-07T01:14:00.000Z",
+    "days": 45,
+    "gyear": 17
+  },
+  {
+    "name": "winter",
+    "date": "2041-12-21T12:19:00.000Z",
+    "days": 44,
+    "gyear": 18
+  },
+  {
+    "name": "imbolc",
+    "date": "2042-02-03T17:14:00.000Z",
+    "days": 45,
+    "gyear": 18
+  },
+  {
+    "name": "spring",
+    "date": "2042-03-20T11:54:00.000Z",
+    "days": 46,
+    "gyear": 18
+  },
+  {
+    "name": "beltane",
+    "date": "2042-05-05T08:44:00.000Z",
+    "days": 46,
+    "gyear": 18
+  },
+  {
+    "name": "summer",
+    "date": "2042-06-21T05:17:00.000Z",
+    "days": 48,
+    "gyear": 18
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2042-08-07T08:39:00.000Z",
+    "days": 46,
+    "gyear": 18
+  },
+  {
+    "name": "autumn",
+    "date": "2042-09-22T21:12:00.000Z",
+    "days": 45,
+    "gyear": 18
+  },
+  {
+    "name": "samhain",
+    "date": "2042-11-07T07:08:00.000Z",
+    "days": 45,
+    "gyear": 18
+  },
+  {
+    "name": "winter",
+    "date": "2042-12-21T18:05:00.000Z",
+    "days": 44,
+    "gyear": 19
+  },
+  {
+    "name": "imbolc",
+    "date": "2043-02-03T22:59:00.000Z",
+    "days": 45,
+    "gyear": 19
+  },
+  {
+    "name": "spring",
+    "date": "2043-03-20T17:28:00.000Z",
+    "days": 46,
+    "gyear": 19
+  },
+  {
+    "name": "beltane",
+    "date": "2043-05-05T14:23:00.000Z",
+    "days": 47,
+    "gyear": 19
+  },
+  {
+    "name": "summer",
+    "date": "2043-06-21T10:59:00.000Z",
+    "days": 47,
+    "gyear": 19
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2043-08-07T14:21:00.000Z",
+    "days": 46,
+    "gyear": 19
+  },
+  {
+    "name": "autumn",
+    "date": "2043-09-23T03:08:00.000Z",
+    "days": 46,
+    "gyear": 19
+  },
+  {
+    "name": "samhain",
+    "date": "2043-11-07T12:57:00.000Z",
+    "days": 44,
+    "gyear": 19
+  },
+  {
+    "name": "winter",
+    "date": "2043-12-22T00:02:00.000Z",
+    "days": 44,
+    "gyear": 20
+  },
+  {
+    "name": "imbolc",
+    "date": "2044-02-04T04:45:00.000Z",
+    "days": 45,
+    "gyear": 20
+  },
+  {
+    "name": "spring",
+    "date": "2044-03-19T23:21:00.000Z",
+    "days": 46,
+    "gyear": 20
+  },
+  {
+    "name": "beltane",
+    "date": "2044-05-04T20:06:00.000Z",
+    "days": 47,
+    "gyear": 20
+  },
+  {
+    "name": "summer",
+    "date": "2044-06-20T16:52:00.000Z",
+    "days": 47,
+    "gyear": 20
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2044-08-06T20:09:00.000Z",
+    "days": 47,
+    "gyear": 20
+  },
+  {
+    "name": "autumn",
+    "date": "2044-09-22T08:49:00.000Z",
+    "days": 45,
+    "gyear": 20
+  },
+  {
+    "name": "samhain",
+    "date": "2044-11-06T18:43:00.000Z",
+    "days": 44,
+    "gyear": 20
+  },
+  {
+    "name": "winter",
+    "date": "2044-12-21T05:44:00.000Z",
+    "days": 45,
+    "gyear": 21
+  },
+  {
+    "name": "imbolc",
+    "date": "2045-02-03T10:37:00.000Z",
+    "days": 44,
+    "gyear": 21
+  },
+  {
+    "name": "spring",
+    "date": "2045-03-20T05:08:00.000Z",
+    "days": 46,
+    "gyear": 21
+  },
+  {
+    "name": "beltane",
+    "date": "2045-05-05T02:00:00.000Z",
+    "days": 47,
+    "gyear": 21
+  },
+  {
+    "name": "summer",
+    "date": "2045-06-20T22:35:00.000Z",
+    "days": 47,
+    "gyear": 21
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2045-08-07T02:00:00.000Z",
+    "days": 47,
+    "gyear": 21
+  },
+  {
+    "name": "autumn",
+    "date": "2045-09-22T14:34:00.000Z",
+    "days": 45,
+    "gyear": 21
+  },
+  {
+    "name": "samhain",
+    "date": "2045-11-07T00:31:00.000Z",
+    "days": 45,
+    "gyear": 21
+  },
+  {
+    "name": "winter",
+    "date": "2045-12-21T11:36:00.000Z",
+    "days": 44,
+    "gyear": 22
+  },
+  {
+    "name": "imbolc",
+    "date": "2046-02-03T16:32:00.000Z",
+    "days": 45,
+    "gyear": 22
+  },
+  {
+    "name": "spring",
+    "date": "2046-03-20T10:59:00.000Z",
+    "days": 46,
+    "gyear": 22
+  },
+  {
+    "name": "beltane",
+    "date": "2046-05-05T07:41:00.000Z",
+    "days": 46,
+    "gyear": 22
+  },
+  {
+    "name": "summer",
+    "date": "2046-06-21T04:15:00.000Z",
+    "days": 48,
+    "gyear": 22
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2046-08-07T07:34:00.000Z",
+    "days": 46,
+    "gyear": 22
+  },
+  {
+    "name": "autumn",
+    "date": "2046-09-22T20:22:00.000Z",
+    "days": 45,
+    "gyear": 22
+  },
+  {
+    "name": "samhain",
+    "date": "2046-11-07T06:15:00.000Z",
+    "days": 45,
+    "gyear": 22
+  },
+  {
+    "name": "winter",
+    "date": "2046-12-21T17:29:00.000Z",
+    "days": 44,
+    "gyear": 23
+  },
+  {
+    "name": "imbolc",
+    "date": "2047-02-03T22:19:00.000Z",
+    "days": 45,
+    "gyear": 23
+  },
+  {
+    "name": "spring",
+    "date": "2047-03-20T16:53:00.000Z",
+    "days": 46,
+    "gyear": 23
+  },
+  {
+    "name": "beltane",
+    "date": "2047-05-05T13:29:00.000Z",
+    "days": 47,
+    "gyear": 23
+  },
+  {
+    "name": "summer",
+    "date": "2047-06-21T10:04:00.000Z",
+    "days": 47,
+    "gyear": 23
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2047-08-07T13:27:00.000Z",
+    "days": 46,
+    "gyear": 23
+  },
+  {
+    "name": "autumn",
+    "date": "2047-09-23T02:09:00.000Z",
+    "days": 46,
+    "gyear": 23
+  },
+  {
+    "name": "samhain",
+    "date": "2047-11-07T12:08:00.000Z",
+    "days": 44,
+    "gyear": 23
+  },
+  {
+    "name": "winter",
+    "date": "2047-12-21T23:08:00.000Z",
+    "days": 44,
+    "gyear": 24
+  },
+  {
+    "name": "imbolc",
+    "date": "2048-02-04T04:05:00.000Z",
+    "days": 45,
+    "gyear": 24
+  },
+  {
+    "name": "spring",
+    "date": "2048-03-19T22:35:00.000Z",
+    "days": 46,
+    "gyear": 24
+  },
+  {
+    "name": "beltane",
+    "date": "2048-05-04T19:25:00.000Z",
+    "days": 47,
+    "gyear": 24
+  },
+  {
+    "name": "summer",
+    "date": "2048-06-20T15:55:00.000Z",
+    "days": 47,
+    "gyear": 24
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2048-08-06T19:20:00.000Z",
+    "days": 47,
+    "gyear": 24
+  },
+  {
+    "name": "autumn",
+    "date": "2048-09-22T08:01:00.000Z",
+    "days": 45,
+    "gyear": 24
+  },
+  {
+    "name": "samhain",
+    "date": "2048-11-06T17:58:00.000Z",
+    "days": 44,
+    "gyear": 24
+  },
+  {
+    "name": "winter",
+    "date": "2048-12-21T05:03:00.000Z",
+    "days": 45,
+    "gyear": 25
+  },
+  {
+    "name": "imbolc",
+    "date": "2049-02-03T09:54:00.000Z",
+    "days": 44,
+    "gyear": 25
+  },
+  {
+    "name": "spring",
+    "date": "2049-03-20T04:29:00.000Z",
+    "days": 46,
+    "gyear": 25
+  },
+  {
+    "name": "beltane",
+    "date": "2049-05-05T01:13:00.000Z",
+    "days": 47,
+    "gyear": 25
+  },
+  {
+    "name": "summer",
+    "date": "2049-06-20T21:48:00.000Z",
+    "days": 47,
+    "gyear": 25
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2049-08-07T00:59:00.000Z",
+    "days": 47,
+    "gyear": 25
+  },
+  {
+    "name": "autumn",
+    "date": "2049-09-22T13:43:00.000Z",
+    "days": 45,
+    "gyear": 25
+  },
+  {
+    "name": "samhain",
+    "date": "2049-11-06T23:39:00.000Z",
+    "days": 45,
+    "gyear": 25
+  },
+  {
+    "name": "winter",
+    "date": "2049-12-21T10:53:00.000Z",
+    "days": 44,
+    "gyear": 26
+  },
+  {
+    "name": "imbolc",
+    "date": "2050-02-03T15:45:00.000Z",
+    "days": 45,
+    "gyear": 26
+  },
+  {
+    "name": "spring",
+    "date": "2050-03-20T10:20:00.000Z",
+    "days": 46,
+    "gyear": 26
+  },
+  {
+    "name": "beltane",
+    "date": "2050-05-05T07:03:00.000Z",
+    "days": 46,
+    "gyear": 26
+  },
+  {
+    "name": "summer",
+    "date": "2050-06-21T03:34:00.000Z",
+    "days": 47,
+    "gyear": 26
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2050-08-07T06:53:00.000Z",
+    "days": 47,
+    "gyear": 26
+  },
+  {
+    "name": "autumn",
+    "date": "2050-09-22T19:29:00.000Z",
+    "days": 45,
+    "gyear": 26
+  },
+  {
+    "name": "samhain",
+    "date": "2050-11-07T05:34:00.000Z",
+    "days": 45,
+    "gyear": 26
+  },
+  {
+    "name": "winter",
+    "date": "2050-12-21T16:39:00.000Z",
+    "days": 44,
+    "gyear": 27
+  },
+  {
+    "name": "imbolc",
+    "date": "2051-02-03T21:37:00.000Z",
+    "days": 45,
+    "gyear": 27
+  },
+  {
+    "name": "spring",
+    "date": "2051-03-20T16:00:00.000Z",
+    "days": 46,
+    "gyear": 27
+  },
+  {
+    "name": "beltane",
+    "date": "2051-05-05T12:48:00.000Z",
+    "days": 47,
+    "gyear": 27
+  },
+  {
+    "name": "summer",
+    "date": "2051-06-21T09:19:00.000Z",
+    "days": 47,
+    "gyear": 27
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2051-08-07T12:43:00.000Z",
+    "days": 46,
+    "gyear": 27
+  },
+  {
+    "name": "autumn",
+    "date": "2051-09-23T01:28:00.000Z",
+    "days": 46,
+    "gyear": 27
+  },
+  {
+    "name": "samhain",
+    "date": "2051-11-07T11:23:00.000Z",
+    "days": 44,
+    "gyear": 27
+  },
+  {
+    "name": "winter",
+    "date": "2051-12-21T22:35:00.000Z",
+    "days": 44,
+    "gyear": 28
+  },
+  {
+    "name": "imbolc",
+    "date": "2052-02-04T03:24:00.000Z",
+    "days": 45,
+    "gyear": 28
+  },
+  {
+    "name": "spring",
+    "date": "2052-03-19T21:57:00.000Z",
+    "days": 46,
+    "gyear": 28
+  },
+  {
+    "name": "beltane",
+    "date": "2052-05-04T18:36:00.000Z",
+    "days": 47,
+    "gyear": 28
+  },
+  {
+    "name": "summer",
+    "date": "2052-06-20T15:17:00.000Z",
+    "days": 47,
+    "gyear": 28
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2052-08-06T18:34:00.000Z",
+    "days": 47,
+    "gyear": 28
+  },
+  {
+    "name": "autumn",
+    "date": "2052-09-22T07:17:00.000Z",
+    "days": 45,
+    "gyear": 28
+  },
+  {
+    "name": "samhain",
+    "date": "2052-11-06T17:11:00.000Z",
+    "days": 44,
+    "gyear": 28
+  },
+  {
+    "name": "winter",
+    "date": "2052-12-21T04:18:00.000Z",
+    "days": 45,
+    "gyear": 29
+  },
+  {
+    "name": "imbolc",
+    "date": "2053-02-03T09:14:00.000Z",
+    "days": 44,
+    "gyear": 29
+  },
+  {
+    "name": "spring",
+    "date": "2053-03-20T03:48:00.000Z",
+    "days": 46,
+    "gyear": 29
+  },
+  {
+    "name": "beltane",
+    "date": "2053-05-05T00:34:00.000Z",
+    "days": 47,
+    "gyear": 29
+  },
+  {
+    "name": "summer",
+    "date": "2053-06-20T21:05:00.000Z",
+    "days": 47,
+    "gyear": 29
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2053-08-07T00:31:00.000Z",
+    "days": 47,
+    "gyear": 29
+  },
+  {
+    "name": "autumn",
+    "date": "2053-09-22T13:07:00.000Z",
+    "days": 45,
+    "gyear": 29
+  },
+  {
+    "name": "samhain",
+    "date": "2053-11-06T23:07:00.000Z",
+    "days": 45,
+    "gyear": 29
+  },
+  {
+    "name": "winter",
+    "date": "2053-12-21T10:11:00.000Z",
+    "days": 44,
+    "gyear": 30
+  },
+  {
+    "name": "imbolc",
+    "date": "2054-02-03T15:09:00.000Z",
+    "days": 45,
+    "gyear": 30
+  },
+  {
+    "name": "spring",
+    "date": "2054-03-20T09:35:00.000Z",
+    "days": 45,
+    "gyear": 30
+  },
+  {
+    "name": "beltane",
+    "date": "2054-05-05T06:19:00.000Z",
+    "days": 47,
+    "gyear": 30
+  },
+  {
+    "name": "summer",
+    "date": "2054-06-21T02:48:00.000Z",
+    "days": 47,
+    "gyear": 30
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2054-08-07T06:08:00.000Z",
+    "days": 47,
+    "gyear": 30
+  },
+  {
+    "name": "autumn",
+    "date": "2054-09-22T19:00:00.000Z",
+    "days": 45,
+    "gyear": 30
+  },
+  {
+    "name": "samhain",
+    "date": "2054-11-07T04:57:00.000Z",
+    "days": 45,
+    "gyear": 30
+  },
+  {
+    "name": "winter",
+    "date": "2054-12-21T16:11:00.000Z",
+    "days": 44,
+    "gyear": 31
+  },
+  {
+    "name": "imbolc",
+    "date": "2055-02-03T20:57:00.000Z",
+    "days": 45,
+    "gyear": 31
+  },
+  {
+    "name": "spring",
+    "date": "2055-03-20T15:30:00.000Z",
+    "days": 46,
+    "gyear": 31
+  },
+  {
+    "name": "beltane",
+    "date": "2055-05-05T12:05:00.000Z",
+    "days": 47,
+    "gyear": 31
+  },
+  {
+    "name": "summer",
+    "date": "2055-06-21T08:41:00.000Z",
+    "days": 47,
+    "gyear": 31
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2055-08-07T12:02:00.000Z",
+    "days": 46,
+    "gyear": 31
+  },
+  {
+    "name": "autumn",
+    "date": "2055-09-23T00:50:00.000Z",
+    "days": 46,
+    "gyear": 31
+  },
+  {
+    "name": "samhain",
+    "date": "2055-11-07T10:54:00.000Z",
+    "days": 44,
+    "gyear": 31
+  },
+  {
+    "name": "winter",
+    "date": "2055-12-21T21:57:00.000Z",
+    "days": 44,
+    "gyear": 32
+  },
+  {
+    "name": "imbolc",
+    "date": "2056-02-04T02:48:00.000Z",
+    "days": 45,
+    "gyear": 32
+  },
+  {
+    "name": "spring",
+    "date": "2056-03-19T21:12:00.000Z",
+    "days": 46,
+    "gyear": 32
+  },
+  {
+    "name": "beltane",
+    "date": "2056-05-04T17:59:00.000Z",
+    "days": 47,
+    "gyear": 32
+  },
+  {
+    "name": "summer",
+    "date": "2056-06-20T14:29:00.000Z",
+    "days": 47,
+    "gyear": 32
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2056-08-06T17:57:00.000Z",
+    "days": 46,
+    "gyear": 32
+  },
+  {
+    "name": "autumn",
+    "date": "2056-09-22T06:40:00.000Z",
+    "days": 46,
+    "gyear": 32
+  },
+  {
+    "name": "samhain",
+    "date": "2056-11-06T16:44:00.000Z",
+    "days": 44,
+    "gyear": 32
+  },
+  {
+    "name": "winter",
+    "date": "2056-12-21T03:53:00.000Z",
+    "days": 45,
+    "gyear": 33
+  },
+  {
+    "name": "imbolc",
+    "date": "2057-02-03T08:43:00.000Z",
+    "days": 44,
+    "gyear": 33
+  },
+  {
+    "name": "spring",
+    "date": "2057-03-20T03:09:00.000Z",
+    "days": 46,
+    "gyear": 33
+  },
+  {
+    "name": "beltane",
+    "date": "2057-05-04T23:48:00.000Z",
+    "days": 47,
+    "gyear": 33
+  },
+  {
+    "name": "summer",
+    "date": "2057-06-20T20:20:00.000Z",
+    "days": 47,
+    "gyear": 33
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2057-08-06T23:35:00.000Z",
+    "days": 47,
+    "gyear": 33
+  },
+  {
+    "name": "autumn",
+    "date": "2057-09-22T12:24:00.000Z",
+    "days": 45,
+    "gyear": 33
+  },
+  {
+    "name": "samhain",
+    "date": "2057-11-06T22:24:00.000Z",
+    "days": 45,
+    "gyear": 33
+  },
+  {
+    "name": "winter",
+    "date": "2057-12-21T09:44:00.000Z",
+    "days": 44,
+    "gyear": 34
+  },
+  {
+    "name": "imbolc",
+    "date": "2058-02-03T14:35:00.000Z",
+    "days": 45,
+    "gyear": 34
+  },
+  {
+    "name": "spring",
+    "date": "2058-03-20T09:06:00.000Z",
+    "days": 45,
+    "gyear": 34
+  },
+  {
+    "name": "beltane",
+    "date": "2058-05-05T05:37:00.000Z",
+    "days": 47,
+    "gyear": 34
+  },
+  {
+    "name": "summer",
+    "date": "2058-06-21T02:05:00.000Z",
+    "days": 47,
+    "gyear": 34
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2058-08-07T05:26:00.000Z",
+    "days": 47,
+    "gyear": 34
+  },
+  {
+    "name": "autumn",
+    "date": "2058-09-22T18:09:00.000Z",
+    "days": 45,
+    "gyear": 34
+  },
+  {
+    "name": "samhain",
+    "date": "2058-11-07T04:18:00.000Z",
+    "days": 45,
+    "gyear": 34
+  },
+  {
+    "name": "winter",
+    "date": "2058-12-21T15:26:00.000Z",
+    "days": 44,
+    "gyear": 35
+  },
+  {
+    "name": "imbolc",
+    "date": "2059-02-03T20:25:00.000Z",
+    "days": 45,
+    "gyear": 35
+  },
+  {
+    "name": "spring",
+    "date": "2059-03-20T14:45:00.000Z",
+    "days": 46,
+    "gyear": 35
+  },
+  {
+    "name": "beltane",
+    "date": "2059-05-05T11:25:00.000Z",
+    "days": 47,
+    "gyear": 35
+  },
+  {
+    "name": "summer",
+    "date": "2059-06-21T07:48:00.000Z",
+    "days": 47,
+    "gyear": 35
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2059-08-07T11:14:00.000Z",
+    "days": 46,
+    "gyear": 35
+  },
+  {
+    "name": "autumn",
+    "date": "2059-09-23T00:05:00.000Z",
+    "days": 46,
+    "gyear": 35
+  },
+  {
+    "name": "samhain",
+    "date": "2059-11-07T10:07:00.000Z",
+    "days": 44,
+    "gyear": 35
+  },
+  {
+    "name": "winter",
+    "date": "2059-12-21T21:19:00.000Z",
+    "days": 44,
+    "gyear": 36
+  },
+  {
+    "name": "imbolc",
+    "date": "2060-02-04T02:09:00.000Z",
+    "days": 45,
+    "gyear": 36
+  },
+  {
+    "name": "spring",
+    "date": "2060-03-19T20:40:00.000Z",
+    "days": 46,
+    "gyear": 36
+  },
+  {
+    "name": "beltane",
+    "date": "2060-05-04T17:14:00.000Z",
+    "days": 47,
+    "gyear": 36
+  },
+  {
+    "name": "summer",
+    "date": "2060-06-20T13:47:00.000Z",
+    "days": 47,
+    "gyear": 36
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2060-08-06T17:00:00.000Z",
+    "days": 46,
+    "gyear": 36
+  },
+  {
+    "name": "autumn",
+    "date": "2060-09-22T05:49:00.000Z",
+    "days": 46,
+    "gyear": 36
+  },
+  {
+    "name": "samhain",
+    "date": "2060-11-06T15:50:00.000Z",
+    "days": 44,
+    "gyear": 36
+  },
+  {
+    "name": "winter",
+    "date": "2060-12-21T03:03:00.000Z",
+    "days": 44,
+    "gyear": 37
+  },
+  {
+    "name": "imbolc",
+    "date": "2061-02-03T07:55:00.000Z",
+    "days": 45,
+    "gyear": 37
+  },
+  {
+    "name": "spring",
+    "date": "2061-03-20T02:27:00.000Z",
+    "days": 46,
+    "gyear": 37
+  },
+  {
+    "name": "beltane",
+    "date": "2061-05-04T23:08:00.000Z",
+    "days": 47,
+    "gyear": 37
+  },
+  {
+    "name": "summer",
+    "date": "2061-06-20T19:33:00.000Z",
+    "days": 47,
+    "gyear": 37
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2061-08-06T22:54:00.000Z",
+    "days": 47,
+    "gyear": 37
+  },
+  {
+    "name": "autumn",
+    "date": "2061-09-22T11:32:00.000Z",
+    "days": 45,
+    "gyear": 37
+  },
+  {
+    "name": "samhain",
+    "date": "2061-11-06T21:41:00.000Z",
+    "days": 45,
+    "gyear": 37
+  },
+  {
+    "name": "winter",
+    "date": "2061-12-21T08:50:00.000Z",
+    "days": 44,
+    "gyear": 38
+  },
+  {
+    "name": "imbolc",
+    "date": "2062-02-03T13:48:00.000Z",
+    "days": 45,
+    "gyear": 38
+  },
+  {
+    "name": "spring",
+    "date": "2062-03-20T08:09:00.000Z",
+    "days": 45,
+    "gyear": 38
+  },
+  {
+    "name": "beltane",
+    "date": "2062-05-05T04:49:00.000Z",
+    "days": 47,
+    "gyear": 38
+  },
+  {
+    "name": "summer",
+    "date": "2062-06-21T01:13:00.000Z",
+    "days": 47,
+    "gyear": 38
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2062-08-07T04:30:00.000Z",
+    "days": 47,
+    "gyear": 38
+  },
+  {
+    "name": "autumn",
+    "date": "2062-09-22T17:21:00.000Z",
+    "days": 45,
+    "gyear": 38
+  },
+  {
+    "name": "samhain",
+    "date": "2062-11-07T03:24:00.000Z",
+    "days": 45,
+    "gyear": 38
+  },
+  {
+    "name": "winter",
+    "date": "2062-12-21T14:44:00.000Z",
+    "days": 44,
+    "gyear": 39
+  },
+  {
+    "name": "imbolc",
+    "date": "2063-02-03T19:32:00.000Z",
+    "days": 45,
+    "gyear": 39
+  },
+  {
+    "name": "spring",
+    "date": "2063-03-20T14:00:00.000Z",
+    "days": 46,
+    "gyear": 39
+  },
+  {
+    "name": "beltane",
+    "date": "2063-05-05T10:29:00.000Z",
+    "days": 47,
+    "gyear": 39
+  },
+  {
+    "name": "summer",
+    "date": "2063-06-21T07:03:00.000Z",
+    "days": 47,
+    "gyear": 39
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2063-08-07T10:21:00.000Z",
+    "days": 46,
+    "gyear": 39
+  },
+  {
+    "name": "autumn",
+    "date": "2063-09-22T23:09:00.000Z",
+    "days": 46,
+    "gyear": 39
+  },
+  {
+    "name": "samhain",
+    "date": "2063-11-07T09:13:00.000Z",
+    "days": 44,
+    "gyear": 39
+  },
+  {
+    "name": "winter",
+    "date": "2063-12-21T20:22:00.000Z",
+    "days": 44,
+    "gyear": 40
+  },
+  {
+    "name": "imbolc",
+    "date": "2064-02-04T01:16:00.000Z",
+    "days": 45,
+    "gyear": 40
+  },
+  {
+    "name": "spring",
+    "date": "2064-03-19T19:40:00.000Z",
+    "days": 46,
+    "gyear": 40
+  },
+  {
+    "name": "beltane",
+    "date": "2064-05-04T16:20:00.000Z",
+    "days": 47,
+    "gyear": 40
+  },
+  {
+    "name": "summer",
+    "date": "2064-06-20T12:47:00.000Z",
+    "days": 47,
+    "gyear": 40
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2064-08-06T16:16:00.000Z",
+    "days": 46,
+    "gyear": 40
+  },
+  {
+    "name": "autumn",
+    "date": "2064-09-22T04:58:00.000Z",
+    "days": 46,
+    "gyear": 40
+  },
+  {
+    "name": "samhain",
+    "date": "2064-11-06T15:03:00.000Z",
+    "days": 44,
+    "gyear": 40
+  },
+  {
+    "name": "winter",
+    "date": "2064-12-21T02:10:00.000Z",
+    "days": 44,
+    "gyear": 41
+  },
+  {
+    "name": "imbolc",
+    "date": "2065-02-03T07:05:00.000Z",
+    "days": 45,
+    "gyear": 41
+  },
+  {
+    "name": "spring",
+    "date": "2065-03-20T01:29:00.000Z",
+    "days": 46,
+    "gyear": 41
+  },
+  {
+    "name": "beltane",
+    "date": "2065-05-04T22:07:00.000Z",
+    "days": 47,
+    "gyear": 41
+  },
+  {
+    "name": "summer",
+    "date": "2065-06-20T18:34:00.000Z",
+    "days": 47,
+    "gyear": 41
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2065-08-06T21:50:00.000Z",
+    "days": 47,
+    "gyear": 41
+  },
+  {
+    "name": "autumn",
+    "date": "2065-09-22T10:44:00.000Z",
+    "days": 45,
+    "gyear": 41
+  },
+  {
+    "name": "samhain",
+    "date": "2065-11-06T20:44:00.000Z",
+    "days": 45,
+    "gyear": 41
+  },
+  {
+    "name": "winter",
+    "date": "2065-12-21T08:02:00.000Z",
+    "days": 44,
+    "gyear": 42
+  },
+  {
+    "name": "imbolc",
+    "date": "2066-02-03T12:51:00.000Z",
+    "days": 45,
+    "gyear": 42
+  },
+  {
+    "name": "spring",
+    "date": "2066-03-20T07:21:00.000Z",
+    "days": 45,
+    "gyear": 42
+  },
+  {
+    "name": "beltane",
+    "date": "2066-05-05T03:50:00.000Z",
+    "days": 47,
+    "gyear": 42
+  },
+  {
+    "name": "summer",
+    "date": "2066-06-21T00:18:00.000Z",
+    "days": 47,
+    "gyear": 42
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2066-08-07T03:38:00.000Z",
+    "days": 47,
+    "gyear": 42
+  },
+  {
+    "name": "autumn",
+    "date": "2066-09-22T16:28:00.000Z",
+    "days": 45,
+    "gyear": 42
+  },
+  {
+    "name": "samhain",
+    "date": "2066-11-07T02:41:00.000Z",
+    "days": 45,
+    "gyear": 42
+  },
+  {
+    "name": "winter",
+    "date": "2066-12-21T13:47:00.000Z",
+    "days": 44,
+    "gyear": 43
+  },
+  {
+    "name": "imbolc",
+    "date": "2067-02-03T18:39:00.000Z",
+    "days": 45,
+    "gyear": 43
+  },
+  {
+    "name": "spring",
+    "date": "2067-03-20T12:55:00.000Z",
+    "days": 46,
+    "gyear": 43
+  },
+  {
+    "name": "beltane",
+    "date": "2067-05-05T09:33:00.000Z",
+    "days": 46,
+    "gyear": 43
+  },
+  {
+    "name": "summer",
+    "date": "2067-06-21T05:57:00.000Z",
+    "days": 48,
+    "gyear": 43
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2067-08-07T09:26:00.000Z",
+    "days": 46,
+    "gyear": 43
+  },
+  {
+    "name": "autumn",
+    "date": "2067-09-22T22:21:00.000Z",
+    "days": 46,
+    "gyear": 43
+  },
+  {
+    "name": "samhain",
+    "date": "2067-11-07T08:32:00.000Z",
+    "days": 44,
+    "gyear": 43
+  },
+  {
+    "name": "winter",
+    "date": "2067-12-21T19:44:00.000Z",
+    "days": 44,
+    "gyear": 44
+  },
+  {
+    "name": "imbolc",
+    "date": "2068-02-04T00:30:00.000Z",
+    "days": 45,
+    "gyear": 44
+  },
+  {
+    "name": "spring",
+    "date": "2068-03-19T18:50:00.000Z",
+    "days": 46,
+    "gyear": 44
+  },
+  {
+    "name": "beltane",
+    "date": "2068-05-04T15:22:00.000Z",
+    "days": 47,
+    "gyear": 44
+  },
+  {
+    "name": "summer",
+    "date": "2068-06-20T11:55:00.000Z",
+    "days": 47,
+    "gyear": 44
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2068-08-06T15:12:00.000Z",
+    "days": 46,
+    "gyear": 44
+  },
+  {
+    "name": "autumn",
+    "date": "2068-09-22T04:08:00.000Z",
+    "days": 46,
+    "gyear": 44
+  },
+  {
+    "name": "samhain",
+    "date": "2068-11-06T14:15:00.000Z",
+    "days": 44,
+    "gyear": 44
+  },
+  {
+    "name": "winter",
+    "date": "2068-12-21T01:34:00.000Z",
+    "days": 44,
+    "gyear": 45
+  },
+  {
+    "name": "imbolc",
+    "date": "2069-02-03T06:22:00.000Z",
+    "days": 45,
+    "gyear": 45
+  },
+  {
+    "name": "spring",
+    "date": "2069-03-20T00:46:00.000Z",
+    "days": 46,
+    "gyear": 45
+  },
+  {
+    "name": "beltane",
+    "date": "2069-05-04T21:16:00.000Z",
+    "days": 47,
+    "gyear": 45
+  },
+  {
+    "name": "summer",
+    "date": "2069-06-20T17:43:00.000Z",
+    "days": 47,
+    "gyear": 45
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2069-08-06T21:07:00.000Z",
+    "days": 47,
+    "gyear": 45
+  },
+  {
+    "name": "autumn",
+    "date": "2069-09-22T09:53:00.000Z",
+    "days": 45,
+    "gyear": 45
+  },
+  {
+    "name": "samhain",
+    "date": "2069-11-06T20:09:00.000Z",
+    "days": 44,
+    "gyear": 45
+  },
+  {
+    "name": "winter",
+    "date": "2069-12-21T07:23:00.000Z",
+    "days": 45,
+    "gyear": 46
+  },
+  {
+    "name": "imbolc",
+    "date": "2070-02-03T12:23:00.000Z",
+    "days": 44,
+    "gyear": 46
+  },
+  {
+    "name": "spring",
+    "date": "2070-03-20T06:36:00.000Z",
+    "days": 46,
+    "gyear": 46
+  },
+  {
+    "name": "beltane",
+    "date": "2070-05-05T03:06:00.000Z",
+    "days": 47,
+    "gyear": 46
+  },
+  {
+    "name": "summer",
+    "date": "2070-06-20T23:24:00.000Z",
+    "days": 47,
+    "gyear": 46
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2070-08-07T02:48:00.000Z",
+    "days": 47,
+    "gyear": 46
+  },
+  {
+    "name": "autumn",
+    "date": "2070-09-22T15:46:00.000Z",
+    "days": 45,
+    "gyear": 46
+  },
+  {
+    "name": "samhain",
+    "date": "2070-11-07T01:57:00.000Z",
+    "days": 45,
+    "gyear": 46
+  },
+  {
+    "name": "winter",
+    "date": "2070-12-21T13:21:00.000Z",
+    "days": 44,
+    "gyear": 47
+  },
+  {
+    "name": "imbolc",
+    "date": "2071-02-03T18:12:00.000Z",
+    "days": 45,
+    "gyear": 47
+  },
+  {
+    "name": "spring",
+    "date": "2071-03-20T12:36:00.000Z",
+    "days": 46,
+    "gyear": 47
+  },
+  {
+    "name": "beltane",
+    "date": "2071-05-05T08:57:00.000Z",
+    "days": 46,
+    "gyear": 47
+  },
+  {
+    "name": "summer",
+    "date": "2071-06-21T05:22:00.000Z",
+    "days": 48,
+    "gyear": 47
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2071-08-07T08:41:00.000Z",
+    "days": 46,
+    "gyear": 47
+  },
+  {
+    "name": "autumn",
+    "date": "2071-09-22T21:39:00.000Z",
+    "days": 45,
+    "gyear": 47
+  },
+  {
+    "name": "samhain",
+    "date": "2071-11-07T07:50:00.000Z",
+    "days": 45,
+    "gyear": 47
+  },
+  {
+    "name": "winter",
+    "date": "2071-12-21T19:05:00.000Z",
+    "days": 44,
+    "gyear": 48
+  },
+  {
+    "name": "imbolc",
+    "date": "2072-02-03T23:58:00.000Z",
+    "days": 45,
+    "gyear": 48
+  },
+  {
+    "name": "spring",
+    "date": "2072-03-19T18:22:00.000Z",
+    "days": 46,
+    "gyear": 48
+  },
+  {
+    "name": "beltane",
+    "date": "2072-05-04T14:55:00.000Z",
+    "days": 47,
+    "gyear": 48
+  },
+  {
+    "name": "summer",
+    "date": "2072-06-20T11:15:00.000Z",
+    "days": 47,
+    "gyear": 48
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2072-08-06T14:41:00.000Z",
+    "days": 46,
+    "gyear": 48
+  },
+  {
+    "name": "autumn",
+    "date": "2072-09-22T03:29:00.000Z",
+    "days": 46,
+    "gyear": 48
+  },
+  {
+    "name": "samhain",
+    "date": "2072-11-06T13:45:00.000Z",
+    "days": 44,
+    "gyear": 48
+  },
+  {
+    "name": "winter",
+    "date": "2072-12-21T00:57:00.000Z",
+    "days": 44,
+    "gyear": 49
+  },
+  {
+    "name": "imbolc",
+    "date": "2073-02-03T05:54:00.000Z",
+    "days": 45,
+    "gyear": 49
+  },
+  {
+    "name": "spring",
+    "date": "2073-03-20T00:15:00.000Z",
+    "days": 46,
+    "gyear": 49
+  },
+  {
+    "name": "beltane",
+    "date": "2073-05-04T20:49:00.000Z",
+    "days": 47,
+    "gyear": 49
+  },
+  {
+    "name": "summer",
+    "date": "2073-06-20T17:08:00.000Z",
+    "days": 47,
+    "gyear": 49
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2073-08-06T20:22:00.000Z",
+    "days": 47,
+    "gyear": 49
+  },
+  {
+    "name": "autumn",
+    "date": "2073-09-22T09:17:00.000Z",
+    "days": 45,
+    "gyear": 49
+  },
+  {
+    "name": "samhain",
+    "date": "2073-11-06T19:26:00.000Z",
+    "days": 44,
+    "gyear": 49
+  },
+  {
+    "name": "winter",
+    "date": "2073-12-21T06:52:00.000Z",
+    "days": 45,
+    "gyear": 50
+  },
+  {
+    "name": "imbolc",
+    "date": "2074-02-03T11:43:00.000Z",
+    "days": 44,
+    "gyear": 50
+  },
+  {
+    "name": "spring",
+    "date": "2074-03-20T06:10:00.000Z",
+    "days": 46,
+    "gyear": 50
+  },
+  {
+    "name": "beltane",
+    "date": "2074-05-05T02:35:00.000Z",
+    "days": 47,
+    "gyear": 50
+  },
+  {
+    "name": "summer",
+    "date": "2074-06-20T23:00:00.000Z",
+    "days": 47,
+    "gyear": 50
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2074-08-07T02:15:00.000Z",
+    "days": 47,
+    "gyear": 50
+  },
+  {
+    "name": "autumn",
+    "date": "2074-09-22T15:05:00.000Z",
+    "days": 45,
+    "gyear": 50
+  },
+  {
+    "name": "samhain",
+    "date": "2074-11-07T01:21:00.000Z",
+    "days": 45,
+    "gyear": 50
+  },
+  {
+    "name": "winter",
+    "date": "2074-12-21T12:37:00.000Z",
+    "days": 44,
+    "gyear": 51
+  },
+  {
+    "name": "imbolc",
+    "date": "2075-02-03T17:32:00.000Z",
+    "days": 45,
+    "gyear": 51
+  },
+  {
+    "name": "spring",
+    "date": "2075-03-20T11:48:00.000Z",
+    "days": 46,
+    "gyear": 51
+  },
+  {
+    "name": "beltane",
+    "date": "2075-05-05T08:21:00.000Z",
+    "days": 46,
+    "gyear": 51
+  },
+  {
+    "name": "summer",
+    "date": "2075-06-21T04:42:00.000Z",
+    "days": 48,
+    "gyear": 51
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2075-08-07T08:10:00.000Z",
+    "days": 46,
+    "gyear": 51
+  },
+  {
+    "name": "autumn",
+    "date": "2075-09-22T21:00:00.000Z",
+    "days": 45,
+    "gyear": 51
+  },
+  {
+    "name": "samhain",
+    "date": "2075-11-07T07:13:00.000Z",
+    "days": 45,
+    "gyear": 51
+  },
+  {
+    "name": "winter",
+    "date": "2075-12-21T18:29:00.000Z",
+    "days": 44,
+    "gyear": 52
+  },
+  {
+    "name": "imbolc",
+    "date": "2076-02-03T23:21:00.000Z",
+    "days": 45,
+    "gyear": 52
+  },
+  {
+    "name": "spring",
+    "date": "2076-03-19T17:40:00.000Z",
+    "days": 46,
+    "gyear": 52
+  },
+  {
+    "name": "beltane",
+    "date": "2076-05-04T14:10:00.000Z",
+    "days": 47,
+    "gyear": 52
+  },
+  {
+    "name": "summer",
+    "date": "2076-06-20T10:38:00.000Z",
+    "days": 47,
+    "gyear": 52
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2076-08-06T13:56:00.000Z",
+    "days": 46,
+    "gyear": 52
+  },
+  {
+    "name": "autumn",
+    "date": "2076-09-22T02:52:00.000Z",
+    "days": 46,
+    "gyear": 52
+  },
+  {
+    "name": "samhain",
+    "date": "2076-11-06T12:55:00.000Z",
+    "days": 44,
+    "gyear": 52
+  },
+  {
+    "name": "winter",
+    "date": "2076-12-21T00:15:00.000Z",
+    "days": 44,
+    "gyear": 53
+  },
+  {
+    "name": "imbolc",
+    "date": "2077-02-03T05:05:00.000Z",
+    "days": 45,
+    "gyear": 53
+  },
+  {
+    "name": "spring",
+    "date": "2077-03-19T23:33:00.000Z",
+    "days": 46,
+    "gyear": 53
+  },
+  {
+    "name": "beltane",
+    "date": "2077-05-04T20:00:00.000Z",
+    "days": 47,
+    "gyear": 53
+  },
+  {
+    "name": "summer",
+    "date": "2077-06-20T16:25:00.000Z",
+    "days": 47,
+    "gyear": 53
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2077-08-06T19:48:00.000Z",
+    "days": 47,
+    "gyear": 53
+  },
+  {
+    "name": "autumn",
+    "date": "2077-09-22T08:37:00.000Z",
+    "days": 45,
+    "gyear": 53
+  },
+  {
+    "name": "samhain",
+    "date": "2077-11-06T18:52:00.000Z",
+    "days": 44,
+    "gyear": 53
+  },
+  {
+    "name": "winter",
+    "date": "2077-12-21T06:02:00.000Z",
+    "days": 45,
+    "gyear": 54
+  },
+  {
+    "name": "imbolc",
+    "date": "2078-02-03T10:59:00.000Z",
+    "days": 44,
+    "gyear": 54
+  },
+  {
+    "name": "spring",
+    "date": "2078-03-20T05:12:00.000Z",
+    "days": 46,
+    "gyear": 54
+  },
+  {
+    "name": "beltane",
+    "date": "2078-05-05T01:43:00.000Z",
+    "days": 47,
+    "gyear": 54
+  },
+  {
+    "name": "summer",
+    "date": "2078-06-20T22:00:00.000Z",
+    "days": 47,
+    "gyear": 54
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2078-08-07T01:26:00.000Z",
+    "days": 47,
+    "gyear": 54
+  },
+  {
+    "name": "autumn",
+    "date": "2078-09-22T14:26:00.000Z",
+    "days": 45,
+    "gyear": 54
+  },
+  {
+    "name": "samhain",
+    "date": "2078-11-07T00:41:00.000Z",
+    "days": 45,
+    "gyear": 54
+  },
+  {
+    "name": "winter",
+    "date": "2078-12-21T12:00:00.000Z",
+    "days": 44,
+    "gyear": 55
+  },
+  {
+    "name": "imbolc",
+    "date": "2079-02-03T16:45:00.000Z",
+    "days": 45,
+    "gyear": 55
+  },
+  {
+    "name": "spring",
+    "date": "2079-03-20T11:02:00.000Z",
+    "days": 46,
+    "gyear": 55
+  },
+  {
+    "name": "beltane",
+    "date": "2079-05-05T07:24:00.000Z",
+    "days": 46,
+    "gyear": 55
+  },
+  {
+    "name": "summer",
+    "date": "2079-06-21T03:51:00.000Z",
+    "days": 48,
+    "gyear": 55
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2079-08-07T07:11:00.000Z",
+    "days": 46,
+    "gyear": 55
+  },
+  {
+    "name": "autumn",
+    "date": "2079-09-22T20:15:00.000Z",
+    "days": 45,
+    "gyear": 55
+  },
+  {
+    "name": "samhain",
+    "date": "2079-11-07T06:29:00.000Z",
+    "days": 45,
+    "gyear": 55
+  },
+  {
+    "name": "winter",
+    "date": "2079-12-21T17:46:00.000Z",
+    "days": 44,
+    "gyear": 56
+  },
+  {
+    "name": "imbolc",
+    "date": "2080-02-03T22:30:00.000Z",
+    "days": 45,
+    "gyear": 56
+  },
+  {
+    "name": "spring",
+    "date": "2080-03-19T16:46:00.000Z",
+    "days": 46,
+    "gyear": 56
+  },
+  {
+    "name": "beltane",
+    "date": "2080-05-04T13:12:00.000Z",
+    "days": 47,
+    "gyear": 56
+  },
+  {
+    "name": "summer",
+    "date": "2080-06-20T09:36:00.000Z",
+    "days": 47,
+    "gyear": 56
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2080-08-06T13:05:00.000Z",
+    "days": 46,
+    "gyear": 56
+  },
+  {
+    "name": "autumn",
+    "date": "2080-09-22T01:58:00.000Z",
+    "days": 46,
+    "gyear": 56
+  },
+  {
+    "name": "samhain",
+    "date": "2080-11-06T12:20:00.000Z",
+    "days": 44,
+    "gyear": 56
+  },
+  {
+    "name": "winter",
+    "date": "2080-12-20T23:35:00.000Z",
+    "days": 44,
+    "gyear": 57
+  },
+  {
+    "name": "imbolc",
+    "date": "2081-02-03T04:28:00.000Z",
+    "days": 45,
+    "gyear": 57
+  },
+  {
+    "name": "spring",
+    "date": "2081-03-19T22:36:00.000Z",
+    "days": 46,
+    "gyear": 57
+  },
+  {
+    "name": "beltane",
+    "date": "2081-05-04T19:02:00.000Z",
+    "days": 47,
+    "gyear": 57
+  },
+  {
+    "name": "summer",
+    "date": "2081-06-20T15:18:00.000Z",
+    "days": 47,
+    "gyear": 57
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2081-08-06T18:39:00.000Z",
+    "days": 47,
+    "gyear": 57
+  },
+  {
+    "name": "autumn",
+    "date": "2081-09-22T07:40:00.000Z",
+    "days": 45,
+    "gyear": 57
+  },
+  {
+    "name": "samhain",
+    "date": "2081-11-06T17:55:00.000Z",
+    "days": 44,
+    "gyear": 57
+  },
+  {
+    "name": "winter",
+    "date": "2081-12-21T05:24:00.000Z",
+    "days": 45,
+    "gyear": 58
+  },
+  {
+    "name": "imbolc",
+    "date": "2082-02-03T10:14:00.000Z",
+    "days": 44,
+    "gyear": 58
+  },
+  {
+    "name": "spring",
+    "date": "2082-03-20T04:32:00.000Z",
+    "days": 46,
+    "gyear": 58
+  },
+  {
+    "name": "beltane",
+    "date": "2082-05-05T00:45:00.000Z",
+    "days": 47,
+    "gyear": 58
+  },
+  {
+    "name": "summer",
+    "date": "2082-06-20T21:05:00.000Z",
+    "days": 47,
+    "gyear": 58
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2082-08-07T00:23:00.000Z",
+    "days": 47,
+    "gyear": 58
+  },
+  {
+    "name": "autumn",
+    "date": "2082-09-22T13:25:00.000Z",
+    "days": 45,
+    "gyear": 58
+  },
+  {
+    "name": "samhain",
+    "date": "2082-11-06T23:46:00.000Z",
+    "days": 45,
+    "gyear": 58
+  },
+  {
+    "name": "winter",
+    "date": "2082-12-21T11:07:00.000Z",
+    "days": 44,
+    "gyear": 59
+  },
+  {
+    "name": "imbolc",
+    "date": "2083-02-03T16:00:00.000Z",
+    "days": 45,
+    "gyear": 59
+  },
+  {
+    "name": "spring",
+    "date": "2083-03-20T10:12:00.000Z",
+    "days": 45,
+    "gyear": 59
+  },
+  {
+    "name": "beltane",
+    "date": "2083-05-05T06:33:00.000Z",
+    "days": 47,
+    "gyear": 59
+  },
+  {
+    "name": "summer",
+    "date": "2083-06-21T02:46:00.000Z",
+    "days": 47,
+    "gyear": 59
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2083-08-07T06:15:00.000Z",
+    "days": 47,
+    "gyear": 59
+  },
+  {
+    "name": "autumn",
+    "date": "2083-09-22T19:13:00.000Z",
+    "days": 45,
+    "gyear": 59
+  },
+  {
+    "name": "samhain",
+    "date": "2083-11-07T05:38:00.000Z",
+    "days": 45,
+    "gyear": 59
+  },
+  {
+    "name": "winter",
+    "date": "2083-12-21T16:55:00.000Z",
+    "days": 44,
+    "gyear": 60
+  },
+  {
+    "name": "imbolc",
+    "date": "2084-02-03T21:49:00.000Z",
+    "days": 45,
+    "gyear": 60
+  },
+  {
+    "name": "spring",
+    "date": "2084-03-19T16:01:00.000Z",
+    "days": 46,
+    "gyear": 60
+  },
+  {
+    "name": "beltane",
+    "date": "2084-05-04T12:25:00.000Z",
+    "days": 47,
+    "gyear": 60
+  },
+  {
+    "name": "summer",
+    "date": "2084-06-20T08:42:00.000Z",
+    "days": 47,
+    "gyear": 60
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2084-08-06T11:58:00.000Z",
+    "days": 46,
+    "gyear": 60
+  },
+  {
+    "name": "autumn",
+    "date": "2084-09-22T01:01:00.000Z",
+    "days": 46,
+    "gyear": 60
+  },
+  {
+    "name": "samhain",
+    "date": "2084-11-06T11:15:00.000Z",
+    "days": 44,
+    "gyear": 60
+  },
+  {
+    "name": "winter",
+    "date": "2084-12-20T22:43:00.000Z",
+    "days": 44,
+    "gyear": 61
+  },
+  {
+    "name": "imbolc",
+    "date": "2085-02-03T03:32:00.000Z",
+    "days": 45,
+    "gyear": 61
+  },
+  {
+    "name": "spring",
+    "date": "2085-03-19T21:55:00.000Z",
+    "days": 46,
+    "gyear": 61
+  },
+  {
+    "name": "beltane",
+    "date": "2085-05-04T18:15:00.000Z",
+    "days": 47,
+    "gyear": 61
+  },
+  {
+    "name": "summer",
+    "date": "2085-06-20T14:35:00.000Z",
+    "days": 47,
+    "gyear": 61
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2085-08-06T17:51:00.000Z",
+    "days": 46,
+    "gyear": 61
+  },
+  {
+    "name": "autumn",
+    "date": "2085-09-22T06:45:00.000Z",
+    "days": 46,
+    "gyear": 61
+  },
+  {
+    "name": "samhain",
+    "date": "2085-11-06T17:10:00.000Z",
+    "days": 44,
+    "gyear": 61
+  },
+  {
+    "name": "winter",
+    "date": "2085-12-21T04:31:00.000Z",
+    "days": 45,
+    "gyear": 62
+  },
+  {
+    "name": "imbolc",
+    "date": "2086-02-03T09:28:00.000Z",
+    "days": 44,
+    "gyear": 62
+  },
+  {
+    "name": "spring",
+    "date": "2086-03-20T03:37:00.000Z",
+    "days": 46,
+    "gyear": 62
+  },
+  {
+    "name": "beltane",
+    "date": "2086-05-05T00:01:00.000Z",
+    "days": 47,
+    "gyear": 62
+  },
+  {
+    "name": "summer",
+    "date": "2086-06-20T20:12:00.000Z",
+    "days": 47,
+    "gyear": 62
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2086-08-06T23:35:00.000Z",
+    "days": 47,
+    "gyear": 62
+  },
+  {
+    "name": "autumn",
+    "date": "2086-09-22T12:34:00.000Z",
+    "days": 45,
+    "gyear": 62
+  },
+  {
+    "name": "samhain",
+    "date": "2086-11-06T22:58:00.000Z",
+    "days": 45,
+    "gyear": 62
+  },
+  {
+    "name": "winter",
+    "date": "2086-12-21T10:25:00.000Z",
+    "days": 44,
+    "gyear": 63
+  },
+  {
+    "name": "imbolc",
+    "date": "2087-02-03T15:17:00.000Z",
+    "days": 45,
+    "gyear": 63
+  },
+  {
+    "name": "spring",
+    "date": "2087-03-20T09:30:00.000Z",
+    "days": 45,
+    "gyear": 63
+  },
+  {
+    "name": "beltane",
+    "date": "2087-05-05T05:47:00.000Z",
+    "days": 47,
+    "gyear": 63
+  },
+  {
+    "name": "summer",
+    "date": "2087-06-21T02:08:00.000Z",
+    "days": 47,
+    "gyear": 63
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2087-08-07T05:26:00.000Z",
+    "days": 47,
+    "gyear": 63
+  },
+  {
+    "name": "autumn",
+    "date": "2087-09-22T18:30:00.000Z",
+    "days": 45,
+    "gyear": 63
+  },
+  {
+    "name": "samhain",
+    "date": "2087-11-07T04:45:00.000Z",
+    "days": 45,
+    "gyear": 63
+  },
+  {
+    "name": "winter",
+    "date": "2087-12-21T16:11:00.000Z",
+    "days": 44,
+    "gyear": 64
+  },
+  {
+    "name": "imbolc",
+    "date": "2088-02-03T21:00:00.000Z",
+    "days": 45,
+    "gyear": 64
+  },
+  {
+    "name": "spring",
+    "date": "2088-03-19T15:19:00.000Z",
+    "days": 46,
+    "gyear": 64
+  },
+  {
+    "name": "beltane",
+    "date": "2088-05-04T11:39:00.000Z",
+    "days": 47,
+    "gyear": 64
+  },
+  {
+    "name": "summer",
+    "date": "2088-06-20T07:59:00.000Z",
+    "days": 47,
+    "gyear": 64
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2088-08-06T11:26:00.000Z",
+    "days": 46,
+    "gyear": 64
+  },
+  {
+    "name": "autumn",
+    "date": "2088-09-22T00:20:00.000Z",
+    "days": 46,
+    "gyear": 64
+  },
+  {
+    "name": "samhain",
+    "date": "2088-11-06T10:43:00.000Z",
+    "days": 44,
+    "gyear": 64
+  },
+  {
+    "name": "winter",
+    "date": "2088-12-20T21:58:00.000Z",
+    "days": 44,
+    "gyear": 65
+  },
+  {
+    "name": "imbolc",
+    "date": "2089-02-03T02:57:00.000Z",
+    "days": 45,
+    "gyear": 65
+  },
+  {
+    "name": "spring",
+    "date": "2089-03-19T21:09:00.000Z",
+    "days": 46,
+    "gyear": 65
+  },
+  {
+    "name": "beltane",
+    "date": "2089-05-04T17:34:00.000Z",
+    "days": 47,
+    "gyear": 65
+  },
+  {
+    "name": "summer",
+    "date": "2089-06-20T13:45:00.000Z",
+    "days": 47,
+    "gyear": 65
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2089-08-06T17:07:00.000Z",
+    "days": 46,
+    "gyear": 65
+  },
+  {
+    "name": "autumn",
+    "date": "2089-09-22T06:09:00.000Z",
+    "days": 46,
+    "gyear": 65
+  },
+  {
+    "name": "samhain",
+    "date": "2089-11-06T16:27:00.000Z",
+    "days": 44,
+    "gyear": 65
+  },
+  {
+    "name": "winter",
+    "date": "2089-12-21T03:54:00.000Z",
+    "days": 45,
+    "gyear": 66
+  },
+  {
+    "name": "imbolc",
+    "date": "2090-02-03T08:44:00.000Z",
+    "days": 44,
+    "gyear": 66
+  },
+  {
+    "name": "spring",
+    "date": "2090-03-20T03:04:00.000Z",
+    "days": 46,
+    "gyear": 66
+  },
+  {
+    "name": "beltane",
+    "date": "2090-05-04T23:19:00.000Z",
+    "days": 47,
+    "gyear": 66
+  },
+  {
+    "name": "summer",
+    "date": "2090-06-20T19:38:00.000Z",
+    "days": 47,
+    "gyear": 66
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2090-08-06T22:55:00.000Z",
+    "days": 47,
+    "gyear": 66
+  },
+  {
+    "name": "autumn",
+    "date": "2090-09-22T12:02:00.000Z",
+    "days": 45,
+    "gyear": 66
+  },
+  {
+    "name": "samhain",
+    "date": "2090-11-06T22:25:00.000Z",
+    "days": 45,
+    "gyear": 66
+  },
+  {
+    "name": "winter",
+    "date": "2090-12-21T09:46:00.000Z",
+    "days": 44,
+    "gyear": 67
+  },
+  {
+    "name": "imbolc",
+    "date": "2091-02-03T14:33:00.000Z",
+    "days": 45,
+    "gyear": 67
+  },
+  {
+    "name": "spring",
+    "date": "2091-03-20T08:44:00.000Z",
+    "days": 45,
+    "gyear": 67
+  },
+  {
+    "name": "beltane",
+    "date": "2091-05-05T05:05:00.000Z",
+    "days": 47,
+    "gyear": 67
+  },
+  {
+    "name": "summer",
+    "date": "2091-06-21T01:21:00.000Z",
+    "days": 47,
+    "gyear": 67
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2091-08-07T04:52:00.000Z",
+    "days": 47,
+    "gyear": 67
+  },
+  {
+    "name": "autumn",
+    "date": "2091-09-22T17:53:00.000Z",
+    "days": 45,
+    "gyear": 67
+  },
+  {
+    "name": "samhain",
+    "date": "2091-11-07T04:23:00.000Z",
+    "days": 45,
+    "gyear": 67
+  },
+  {
+    "name": "winter",
+    "date": "2091-12-21T15:41:00.000Z",
+    "days": 44,
+    "gyear": 68
+  },
+  {
+    "name": "imbolc",
+    "date": "2092-02-03T20:31:00.000Z",
+    "days": 45,
+    "gyear": 68
+  },
+  {
+    "name": "spring",
+    "date": "2092-03-19T14:36:00.000Z",
+    "days": 46,
+    "gyear": 68
+  },
+  {
+    "name": "beltane",
+    "date": "2092-05-04T10:58:00.000Z",
+    "days": 47,
+    "gyear": 68
+  },
+  {
+    "name": "summer",
+    "date": "2092-06-20T07:17:00.000Z",
+    "days": 47,
+    "gyear": 68
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2092-08-06T10:38:00.000Z",
+    "days": 46,
+    "gyear": 68
+  },
+  {
+    "name": "autumn",
+    "date": "2092-09-21T23:44:00.000Z",
+    "days": 46,
+    "gyear": 68
+  },
+  {
+    "name": "samhain",
+    "date": "2092-11-06T10:03:00.000Z",
+    "days": 44,
+    "gyear": 68
+  },
+  {
+    "name": "winter",
+    "date": "2092-12-20T21:34:00.000Z",
+    "days": 44,
+    "gyear": 69
+  },
+  {
+    "name": "imbolc",
+    "date": "2093-02-03T02:21:00.000Z",
+    "days": 45,
+    "gyear": 69
+  },
+  {
+    "name": "spring",
+    "date": "2093-03-19T20:37:00.000Z",
+    "days": 46,
+    "gyear": 69
+  },
+  {
+    "name": "beltane",
+    "date": "2093-05-04T16:49:00.000Z",
+    "days": 47,
+    "gyear": 69
+  },
+  {
+    "name": "summer",
+    "date": "2093-06-20T13:09:00.000Z",
+    "days": 47,
+    "gyear": 69
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2093-08-06T16:30:00.000Z",
+    "days": 46,
+    "gyear": 69
+  },
+  {
+    "name": "autumn",
+    "date": "2093-09-22T05:31:00.000Z",
+    "days": 46,
+    "gyear": 69
+  },
+  {
+    "name": "samhain",
+    "date": "2093-11-06T15:58:00.000Z",
+    "days": 44,
+    "gyear": 69
+  },
+  {
+    "name": "winter",
+    "date": "2093-12-21T03:23:00.000Z",
+    "days": 45,
+    "gyear": 70
+  },
+  {
+    "name": "imbolc",
+    "date": "2094-02-03T08:19:00.000Z",
+    "days": 44,
+    "gyear": 70
+  },
+  {
+    "name": "spring",
+    "date": "2094-03-20T02:24:00.000Z",
+    "days": 46,
+    "gyear": 70
+  },
+  {
+    "name": "beltane",
+    "date": "2094-05-04T22:38:00.000Z",
+    "days": 47,
+    "gyear": 70
+  },
+  {
+    "name": "summer",
+    "date": "2094-06-20T18:45:00.000Z",
+    "days": 47,
+    "gyear": 70
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2094-08-06T22:14:00.000Z",
+    "days": 47,
+    "gyear": 70
+  },
+  {
+    "name": "autumn",
+    "date": "2094-09-22T11:19:00.000Z",
+    "days": 45,
+    "gyear": 70
+  },
+  {
+    "name": "samhain",
+    "date": "2094-11-06T21:49:00.000Z",
+    "days": 45,
+    "gyear": 70
+  },
+  {
+    "name": "winter",
+    "date": "2094-12-21T09:16:00.000Z",
+    "days": 44,
+    "gyear": 71
+  },
+  {
+    "name": "imbolc",
+    "date": "2095-02-03T14:09:00.000Z",
+    "days": 45,
+    "gyear": 71
+  },
+  {
+    "name": "spring",
+    "date": "2095-03-20T08:17:00.000Z",
+    "days": 45,
+    "gyear": 71
+  },
+  {
+    "name": "beltane",
+    "date": "2095-05-05T04:28:00.000Z",
+    "days": 47,
+    "gyear": 71
+  },
+  {
+    "name": "summer",
+    "date": "2095-06-21T00:41:00.000Z",
+    "days": 47,
+    "gyear": 71
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2095-08-07T04:01:00.000Z",
+    "days": 47,
+    "gyear": 71
+  },
+  {
+    "name": "autumn",
+    "date": "2095-09-22T17:13:00.000Z",
+    "days": 45,
+    "gyear": 71
+  },
+  {
+    "name": "samhain",
+    "date": "2095-11-07T03:35:00.000Z",
+    "days": 45,
+    "gyear": 71
+  },
+  {
+    "name": "winter",
+    "date": "2095-12-21T15:03:00.000Z",
+    "days": 44,
+    "gyear": 72
+  },
+  {
+    "name": "imbolc",
+    "date": "2096-02-03T19:49:00.000Z",
+    "days": 45,
+    "gyear": 72
+  },
+  {
+    "name": "spring",
+    "date": "2096-03-19T14:05:00.000Z",
+    "days": 46,
+    "gyear": 72
+  },
+  {
+    "name": "beltane",
+    "date": "2096-05-04T10:18:00.000Z",
+    "days": 46,
+    "gyear": 72
+  },
+  {
+    "name": "summer",
+    "date": "2096-06-20T06:33:00.000Z",
+    "days": 48,
+    "gyear": 72
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2096-08-06T09:56:00.000Z",
+    "days": 46,
+    "gyear": 72
+  },
+  {
+    "name": "autumn",
+    "date": "2096-09-21T22:57:00.000Z",
+    "days": 46,
+    "gyear": 72
+  },
+  {
+    "name": "samhain",
+    "date": "2096-11-06T09:28:00.000Z",
+    "days": 44,
+    "gyear": 72
+  },
+  {
+    "name": "winter",
+    "date": "2096-12-20T20:49:00.000Z",
+    "days": 44,
+    "gyear": 73
+  },
+  {
+    "name": "imbolc",
+    "date": "2097-02-03T01:44:00.000Z",
+    "days": 45,
+    "gyear": 73
+  },
+  {
+    "name": "spring",
+    "date": "2097-03-19T19:51:00.000Z",
+    "days": 46,
+    "gyear": 73
+  },
+  {
+    "name": "beltane",
+    "date": "2097-05-04T16:11:00.000Z",
+    "days": 47,
+    "gyear": 73
+  },
+  {
+    "name": "summer",
+    "date": "2097-06-20T12:16:00.000Z",
+    "days": 47,
+    "gyear": 73
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2097-08-06T15:35:00.000Z",
+    "days": 46,
+    "gyear": 73
+  },
+  {
+    "name": "autumn",
+    "date": "2097-09-22T04:38:00.000Z",
+    "days": 46,
+    "gyear": 73
+  },
+  {
+    "name": "samhain",
+    "date": "2097-11-06T15:06:00.000Z",
+    "days": 44,
+    "gyear": 73
+  },
+  {
+    "name": "winter",
+    "date": "2097-12-21T02:40:00.000Z",
+    "days": 44,
+    "gyear": 74
+  },
+  {
+    "name": "imbolc",
+    "date": "2098-02-03T07:31:00.000Z",
+    "days": 45,
+    "gyear": 74
+  },
+  {
+    "name": "spring",
+    "date": "2098-03-20T01:43:00.000Z",
+    "days": 46,
+    "gyear": 74
+  },
+  {
+    "name": "beltane",
+    "date": "2098-05-04T21:51:00.000Z",
+    "days": 47,
+    "gyear": 74
+  },
+  {
+    "name": "summer",
+    "date": "2098-06-20T18:05:00.000Z",
+    "days": 47,
+    "gyear": 74
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2098-08-06T21:19:00.000Z",
+    "days": 47,
+    "gyear": 74
+  },
+  {
+    "name": "autumn",
+    "date": "2098-09-22T10:27:00.000Z",
+    "days": 45,
+    "gyear": 74
+  },
+  {
+    "name": "samhain",
+    "date": "2098-11-06T20:53:00.000Z",
+    "days": 45,
+    "gyear": 74
+  },
+  {
+    "name": "winter",
+    "date": "2098-12-21T08:23:00.000Z",
+    "days": 44,
+    "gyear": 75
+  },
+  {
+    "name": "imbolc",
+    "date": "2099-02-03T13:12:00.000Z",
+    "days": 45,
+    "gyear": 75
+  },
+  {
+    "name": "spring",
+    "date": "2099-03-20T07:20:00.000Z",
+    "days": 45,
+    "gyear": 75
+  },
+  {
+    "name": "beltane",
+    "date": "2099-05-05T03:32:00.000Z",
+    "days": 47,
+    "gyear": 75
+  },
+  {
+    "name": "summer",
+    "date": "2099-06-20T23:44:00.000Z",
+    "days": 47,
+    "gyear": 75
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2099-08-07T03:13:00.000Z",
+    "days": 47,
+    "gyear": 75
+  },
+  {
+    "name": "autumn",
+    "date": "2099-09-22T16:14:00.000Z",
+    "days": 45,
+    "gyear": 75
+  },
+  {
+    "name": "samhain",
+    "date": "2099-11-07T02:45:00.000Z",
+    "days": 45,
+    "gyear": 75
+  },
+  {
+    "name": "winter",
+    "date": "2099-12-21T14:07:00.000Z",
+    "days": 44,
+    "gyear": 76
+  },
+  {
+    "name": "imbolc",
+    "date": "2100-02-03T19:03:00.000Z",
+    "days": 45,
+    "gyear": 76
+  },
+  {
+    "name": "spring",
+    "date": "2100-03-20T13:06:00.000Z",
+    "days": 46,
+    "gyear": 76
+  },
+  {
+    "name": "beltane",
+    "date": "2100-05-05T09:23:00.000Z",
+    "days": 46,
+    "gyear": 76
+  },
+  {
+    "name": "summer",
+    "date": "2100-06-21T05:35:00.000Z",
+    "days": 48,
+    "gyear": 76
+  },
+  {
+    "name": "lughnasadh",
+    "date": "2100-08-07T08:57:00.000Z",
+    "days": 46,
+    "gyear": 76
+  },
+  {
+    "name": "autumn",
+    "date": "2100-09-22T22:03:00.000Z",
+    "days": 46,
+    "gyear": 76
+  },
+  {
+    "name": "samhain",
+    "date": "2100-11-07T08:23:00.000Z",
+    "days": 44,
+    "gyear": 76
+  }
+]
