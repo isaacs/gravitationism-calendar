@@ -1,4 +1,5 @@
 import { readFileSync } from 'fs'
+import { dataFile } from './folders.ts'
 
 const events: SolarEvent[] = [
   { name: 'winter', date: new Date('1949 Dec 22 04:23 UTC') },
@@ -22,7 +23,7 @@ type SolarEvent = {
 // perihelion/aphelion from giss
 // https://data.giss.nasa.gov/modelE/ar5plots/srvernal.html
 const gissDateLength = '7/04 14:37'.length
-for (const line of readFileSync('./data/giss.txt', 'utf8')
+for (const line of readFileSync(dataFile('giss.txt'), 'utf8')
   .trim()
   .split('\n')
   .map(s => s.trim())
@@ -42,7 +43,7 @@ for (const line of readFileSync('./data/giss.txt', 'utf8')
 }
 
 for (const section of readFileSync(
-  './data/russellcottrell.txt',
+  dataFile('russellcottrell.txt'),
   'utf8',
 ).split('\n\n')) {
   const lines = section

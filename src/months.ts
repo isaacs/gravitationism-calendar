@@ -1,5 +1,6 @@
 import { readFileSync, writeFileSync } from 'fs'
 import { getSeasons } from './season.ts'
+import { dataFile } from './folders.ts'
 
 export const lunarMonthNames = [
   'January',
@@ -36,10 +37,10 @@ let months: LunarMonth[]
 export const getMonths = (): LunarMonth[] => {
   if (months) return months
   try {
-    return months = fromJson('./data/months.json')
+    return (months = fromJson(dataFile('months.json')))
   } catch {}
   const solarSeasons = getSeasons()
-  const newMoons = readFileSync('./data/new-moons.txt', 'utf8')
+  const newMoons = readFileSync(dataFile('new-moons.txt'), 'utf8')
     .trim()
     .split('\n')
     .map(d => new Date(d))
@@ -85,7 +86,7 @@ export const getMonths = (): LunarMonth[] => {
     })
   }
   writeFileSync(
-    './data/months.json',
+    dataFile('months.json'),
     JSON.stringify(months, null, 2) + '\n',
   )
   return months

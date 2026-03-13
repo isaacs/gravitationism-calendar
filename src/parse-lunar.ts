@@ -1,9 +1,10 @@
 import { readFileSync } from 'fs'
+import { dataFile } from './folders.ts'
 
 const start = Date.parse('1949-12-22T04:23:00.000Z')
 
 let year = 0
-for (const line of readFileSync('./data/lunations.txt', 'utf8')
+for (const line of readFileSync(dataFile('lunations.txt'), 'utf8')
   .trim()
   .split('\n')) {
   const my = line.substring(0, 5).trim()

@@ -1,5 +1,6 @@
 import { readFileSync, writeFileSync } from 'fs'
 import { isEventName, type SolarEvent } from './solar-event.ts'
+import { dataFile } from './folders.ts'
 
 let solarEvents: SolarEvent[]
 
@@ -11,9 +12,11 @@ const fromJson = (file: string) =>
 
 export const loadSolarEvents = () => {
   if (solarEvents) return solarEvents
-  try { return solarEvents = fromJson('./data/solar-events.json') } catch {}
+  try {
+    return (solarEvents = fromJson(dataFile('solar-events.json')))
+  } catch {}
   solarEvents = []
-  const lines = readFileSync('./data/events.txt', 'utf8')
+  const lines = readFileSync(dataFile('events.txt'), 'utf8')
     .trim()
     .split('\n')
 
@@ -32,7 +35,10 @@ export const loadSolarEvents = () => {
 
   solarEvents.sort(({ date: a }, { date: b }) => a.getTime() - b.getTime())
 
-  writeFileSync('./data/solar-events.json', JSON.stringify(solarEvents, null, 2) + '\n')
+  writeFileSync(
+    dataFile('solar-events.json'),
+    JSON.stringify(solarEvents, null, 2) + '\n',
+  )
 
   return solarEvents
 }

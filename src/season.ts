@@ -1,6 +1,7 @@
 import { readFileSync, writeFileSync } from 'fs'
 import { loadSolarEvents } from './load-solar-events.ts'
 import { isSeasonEvent, type SolarEvent } from './solar-event.ts'
+import { dataFile } from './folders.ts'
 
 export const seasonNames = [
   'imbolc',
@@ -46,11 +47,11 @@ let seasons: SolarSeason[]
 export const getSeasons = (): SolarSeason[] => {
   if (seasons) return seasons
   try {
-    return seasons = fromJson('./data/solar-seasons.json')
+    return seasons = fromJson(dataFile('solar-seasons.json'))
   } catch {
     seasons = seasonsFromEvents(loadSolarEvents())
     writeFileSync(
-      './data/solar-seasons.json',
+      dataFile('solar-seasons.json'),
       JSON.stringify(seasons, null, 2) + '\n',
     )
     return seasons
