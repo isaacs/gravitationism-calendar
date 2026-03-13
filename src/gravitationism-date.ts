@@ -76,16 +76,31 @@ export class GravitationismDate {
     const sd = season.date
     const locSD = locday(sd)
     const month = findMonth(dd)
-    const md = month.start
-    const locMD = locday(md)
     this.season = season
     this.year = season.gyear
     const cd = locday(dd)
     this.seasonDate = Math.round((cd.getTime() - locSD.getTime()) / DAY)
-    if (isNaN(this.seasonDate)) throw new Error('invalid date: out of range')
-    this.lunarMonth = month
+    if (isNaN(this.seasonDate))
+      throw new Error('invalid date: out of range')
+
+    // because we only calculate up through G76, that last January gets cut
+    // off, so fake it.
+    if (month.name === 'Elfember' && this.isoDate > month.end) {
+      this.lunarMonth = {
+        name: 'January',
+        start: new Date('2100-12-01T13:02:00.000Z'),
+        end: new Date(Date.parse('2100-12-01T13:02:00.000Z') + 29.5 * DAY),
+      }
+    } else {
+      this.lunarMonth = month
+    }
+    const md = this.lunarMonth.start
+    const locMD = locday(md)
+
     this.lunarDate = Math.round((cd.getTime() - locMD.getTime()) / DAY)
-    if (isNaN(this.lunarDate)) throw new Error('invalid date: out of range')
+
+    if (isNaN(this.lunarDate))
+      throw new Error('invalid date: out of range')
     this.shortString = `G${this.year}-${seasonNumber[this.season.name]}-${this.seasonDate}`
     const monthStr =
       this.season.name === 'winter' && this.lunarDate === 0 ?
