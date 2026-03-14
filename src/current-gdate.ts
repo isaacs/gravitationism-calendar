@@ -1,2 +1,2 @@
-import {GravitationismDate} from './gravitationism-date.ts'
+import { GravitationismDate } from './gravitationism-date.ts'
 console.log(new GravitationismDate().toString())

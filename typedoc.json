@@ -1,0 +1,7 @@
+{
+  "entryPoints": ["./src/**/*.+(ts|tsx|mts|cts)"],
+  "navigationLinks": {
+    "GitHub": "https://github.com/isaacs/gravitationism-calendar",
+    "isaacs projects": "https://isaacs.github.io/"
+  }
+}

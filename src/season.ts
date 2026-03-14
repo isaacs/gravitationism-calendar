@@ -47,7 +47,7 @@ let seasons: SolarSeason[]
 export const getSeasons = (): SolarSeason[] => {
   if (seasons) return seasons
   try {
-    return seasons = fromJson(dataFile('solar-seasons.json'))
+    return (seasons = fromJson(dataFile('solar-seasons.json')))
   } catch {
     seasons = seasonsFromEvents(loadSolarEvents())
     writeFileSync(

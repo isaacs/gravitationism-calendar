@@ -86,7 +86,6 @@ GravitationismDate {
 */
 ```
 
-
 ## ICS feeds
 
 The ICS feeds are generated for use in the US/Pacific time zone.
