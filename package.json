@@ -23,5 +23,9 @@
     "solar-ics": "node src/gen-ics.ts",
     "lunar-ics": "node src/gen-ics.ts months",
     "gdate": "node src/current-gdate.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/isaacs/gravitationism-calendar.git"
   }
 }
