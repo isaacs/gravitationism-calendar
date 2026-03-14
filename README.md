@@ -55,6 +55,38 @@ Note that season dates are zero-indexed, and the first day of the
 season is not given a number, so 2026-06-21 would be `G2-5-0` or
 `Sunday, G2 Summer, Day 7 of Sexember`.
 
+The included `GravitationismDate` class is included that will do
+all the relevant calculations:
+
+```ts
+import { GravitationismDate } from 'gravitationism-calendar'
+
+// pass in a Date object, or any valid ISO date
+console.log(new g.GravitationismDate('2024-06-27T12:00-0700'))
+/*
+GravitationismDate {
+  season: {
+    name: 'summer',
+    date: 2024-06-20T20:52:00.000Z,
+    days: 47,
+    gyear: 0
+  },
+  seasonDate: 7,
+  year: 0,
+  lunarMonth: {
+    name: 'Sexember',
+    start: 2024-06-06T12:38:00.000Z,
+    end: 2024-07-05T22:57:00.000Z
+  },
+  lunarDate: 21,
+  isoDate: 2024-06-27T19:00:00.000Z,
+  fullString: 'Thursday, G0 Summer 7, Day 21 of Sexember',
+  shortString: 'G0-5-7'
+}
+*/
+```
+
+
 ## ICS feeds
 
 The ICS feeds are generated for use in the US/Pacific time zone.
