@@ -15,6 +15,7 @@
     ".": "./src/index.ts"
   },
   "scripts": {
+    "typedoc": "typedoc",
     "postversion": "npm publish",
     "prepublishOnly": "git push origin --follow-tags",
     "format": "prettier --write .",
