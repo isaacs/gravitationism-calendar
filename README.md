@@ -17,13 +17,14 @@ the earth around the sun:
 - Autumn
 - Samhain
 
-These are about 44-48 days, because the earth moves in an
-elliptical orbit, so the seasons closer to the aphelion (about 15
+These range from 44-48 days, because the earth moves in an
+elliptical orbit, so the seasons closer to the aphelion (which
+occurs about 2 weeks into summer) are a bit longer.
 
-The months go from new moon to new moon. The month that includes
-the winter solstice is "January", named for the two faced
-backward/forward looking god of doorways and passages. (When
-January starts _on_ the winter solstice, this is very
+The lunar months go from new moon to new moon. The month that
+includes the winter solstice is "January", named for the two
+faced backward/forward looking god of doorways and passages.
+(When January starts _on_ the winter solstice, this is very
 auspicious.)
 
 From there, they are named from 1 to 11:
