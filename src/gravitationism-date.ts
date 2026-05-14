@@ -28,8 +28,8 @@ const findMonth = (d: Date, months = getMonths()) => {
   if (!months.length) throw new Error('ran out of months??')
   const i = Math.floor(months.length / 2)
   const s = months[i]
-  const md = locday(s.start)
-  if (md.getTime() > d.getTime() + DAY) {
+  const md = s.start
+  if (md.getTime() > d.getTime() + (DAY * 0.9)) {
     return findMonth(d, months.slice(0, i))
   } else if (months.length === 1) {
     return s
@@ -68,14 +68,19 @@ export class GravitationismDate {
     return this.fullString
   }
 
-  constructor(d: Date = new Date()) {
-    const dd = d instanceof Date ? d : new Date(d)
+  constructor(
+    d: Date | GravitationismDate | number | string = new Date(),
+  ) {
+    const dd =
+      d instanceof GravitationismDate ? d.isoDate
+      : d instanceof Date ? d
+      : new Date(d)
     this.isoDate = dd
     const ld = locday(dd)
     const season = (this.season = findSeason(ld))
     const sd = season.date
     const locSD = locday(sd)
-    const month = findMonth(dd)
+    const month = findMonth(ld)
     this.season = season
     this.year = season.gyear
     const cd = locday(dd)
@@ -98,6 +103,19 @@ export class GravitationismDate {
     const locMD = locday(md)
 
     this.lunarDate = Math.round((cd.getTime() - locMD.getTime()) / DAY)
+    if (this.lunarDate === -1) {
+      console.error('wat', this)
+      console.error({
+        d,
+        dd,
+        ld,
+        cd,
+        fmdd: findMonth(dd),
+        fmld: findMonth(ld),
+        fmiso: findMonth(this.isoDate),
+      })
+      if (this.season.gyear > 0 && this.season.gyear < 5) throw 'stop'
+    }
 
     if (isNaN(this.lunarDate))
       throw new Error('invalid date: out of range')
