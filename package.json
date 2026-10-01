@@ -1,6 +1,6 @@
 {
   "name": "gravitationism-calendar",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "type": "module",
   "devDependencies": {
     "@ts-ics/schema-zod": "^2.0.0",
