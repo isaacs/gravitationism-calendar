@@ -2,6 +2,9 @@
   "name": "gravitationism-calendar",
   "version": "1.0.5",
   "type": "module",
+  "files": [
+    "dist"
+  ],
   "devDependencies": {
     "@ts-ics/schema-zod": "^2.0.0",
     "@types/node": "^22.13.17",
@@ -34,7 +37,10 @@
   "scripts": {
     "typedoc": "typedoc",
     "prepare": "tshy",
+    "postprepare": "mkdir -p dist/data; cp data/* dist/data",
     "postversion": "npm publish",
+    "prepublish": "npm run prepare",
+    "preversion": "npm run prepare",
     "prepublishOnly": "git push origin --follow-tags",
     "format": "prettier --write .",
     "parse-solar": "tshy && node dist/esm/parse-solar.js",
