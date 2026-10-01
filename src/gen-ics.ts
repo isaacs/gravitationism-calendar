@@ -1,10 +1,10 @@
 import type { EventAttributes, HeaderAttributes } from 'ics'
 import { createEvents } from 'ics'
-import { getSeasons } from './season.ts'
-import { getMonths } from './months.ts'
-import { loadSolarEvents } from './load-solar-events.ts'
-import { isSeasonEvent } from './solar-event.ts'
-import { GravitationismDate } from './gravitationism-date.ts'
+import { getSeasons } from './season.js'
+import { getMonths } from './months.js'
+import { loadSolarEvents } from './load-solar-events.js'
+import { isSeasonEvent } from './solar-event.js'
+import { GravitationismDate } from './gravitationism-date.js'
 
 const MONTHS = process.argv[2] === 'months'
 

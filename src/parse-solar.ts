@@ -1,5 +1,5 @@
 import { readFileSync } from 'fs'
-import { dataFile } from './folders.ts'
+import { dataFile } from './folders.js'
 
 const events: SolarEvent[] = [
   { name: 'winter', date: new Date('1949 Dec 22 04:23 UTC') },

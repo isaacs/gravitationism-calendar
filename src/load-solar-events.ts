@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync } from 'fs'
-import { isEventName, type SolarEvent } from './solar-event.ts'
-import { dataFile } from './folders.ts'
+import { isEventName, type SolarEvent } from './solar-event.js'
+import { dataFile } from './folders.js'
 
 let solarEvents: SolarEvent[]
 

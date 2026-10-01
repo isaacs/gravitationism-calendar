@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync } from 'fs'
-import { getSeasons } from './season.ts'
-import { dataFile } from './folders.ts'
+import { getSeasons } from './season.js'
+import { dataFile } from './folders.js'
 
 export const lunarMonthNames = [
   'January',

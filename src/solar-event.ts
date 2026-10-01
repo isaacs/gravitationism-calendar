@@ -1,4 +1,4 @@
-import { isSeasonName, type SeasonName } from './season.ts'
+import { isSeasonName, type SeasonName } from './season.js'
 
 export type SolarEventName = SeasonName | 'perihelion' | 'aphelion'
 

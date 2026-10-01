@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-import '../src/current-gdate.ts'
+import '../dist/esm/current-gdate.js'

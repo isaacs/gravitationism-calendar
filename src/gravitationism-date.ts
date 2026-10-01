@@ -1,9 +1,9 @@
 // get the gravitationism calendar data for any iso date
 
-import { type LunarMonth } from './months.ts'
-import { seasonNumber, type SolarSeason } from './season.ts'
-import { getSeasons } from './season.ts'
-import { getMonths } from './months.ts'
+import { type LunarMonth } from './months.js'
+import { seasonNumber, type SolarSeason } from './season.js'
+import { getSeasons } from './season.js'
+import { getMonths } from './months.js'
 
 const locday = (d: Date) =>
   new Date(`${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`)
@@ -12,6 +12,7 @@ const findSeason = (d: Date, seasons = getSeasons()) => {
   if (!seasons.length) throw new Error('ran out of seasons??')
   const i = Math.floor(seasons.length / 2)
   const s = seasons[i]
+  if (!s) throw new Error('ran out of seasons??')
   const sd = locday(s.date)
   if (sd.getTime() > d.getTime()) {
     return findSeason(d, seasons.slice(0, i))
@@ -28,6 +29,7 @@ const findMonth = (d: Date, months = getMonths()) => {
   if (!months.length) throw new Error('ran out of months??')
   const i = Math.floor(months.length / 2)
   const s = months[i]
+  if (!s) throw new Error('ran out of seasons??')
   const md = s.start
   if (md.getTime() > d.getTime() + (DAY * 0.9)) {
     return findMonth(d, months.slice(0, i))

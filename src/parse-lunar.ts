@@ -1,5 +1,5 @@
 import { readFileSync } from 'fs'
-import { dataFile } from './folders.ts'
+import { dataFile } from './folders.js'
 
 const start = Date.parse('1949-12-22T04:23:00.000Z')
 

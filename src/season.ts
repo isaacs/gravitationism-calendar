@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync } from 'fs'
-import { loadSolarEvents } from './load-solar-events.ts'
-import { isSeasonEvent, type SolarEvent } from './solar-event.ts'
-import { dataFile } from './folders.ts'
+import { loadSolarEvents } from './load-solar-events.js'
+import { isSeasonEvent, type SolarEvent } from './solar-event.js'
+import { dataFile } from './folders.js'
 
 export const seasonNames = [
   'imbolc',
