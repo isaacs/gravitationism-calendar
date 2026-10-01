@@ -37,8 +37,7 @@
   },
   "scripts": {
     "typedoc": "typedoc",
-    "prepare": "tshy",
-    "postprepare": "mkdir -p dist/data; cp data/* dist/data",
+    "prepare": "tshy && mkdir -p dist/data && cp data/* dist/data",
     "postversion": "npm publish",
     "prepublish": "npm run prepare",
     "preversion": "npm run prepare",
