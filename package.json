@@ -15,7 +15,7 @@
     ".": "./src/index.ts"
   },
   "bin": {
-    "gdate": "./bin/gdate.js"
+    "gravdate": "./bin/gravdate.js"
   },
   "scripts": {
     "typedoc": "typedoc",
